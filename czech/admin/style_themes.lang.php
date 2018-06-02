@@ -190,6 +190,7 @@ $l['error_missing_stylesheet_name'] = "Zadejte název této šablony stylů.";
 $l['error_missing_stylesheet_extension'] = "Tato šablona stylů musí končit správnou příponou souboru, například, {1}<em>.css</em>";
 $l['error_invalid_parent_theme'] = "Vybraný nadřazený motiv neexistuje. Vyberte platný nadřazený motiv.";
 $l['error_invalid_templateset'] = "Vybraná sada šablon neexistuje. Vyberte platnou sadu šablon.";
+$l['error_invalid_color'] = "The defined color set \"{1}\" is either having invalid character(s) or not in prescribed format. Only alpha-numeric characters are allowed for naming separated by '='.";
 $l['error_invalid_editortheme'] = "Vybraný motiv editoru neexistuje. Vyberte platný motiv editoru.";
 $l['error_inheriting_stylesheets'] = "Tento motiv nelze odstranit, protože stále existují další motivy, které z něj kopírují styly.";
 $l['error_cannot_parse'] = "MyBB nelze analyzovat tento styl pro jednoduchý editor. Lze jej upravovat pouze v rozšířeném režimu.";

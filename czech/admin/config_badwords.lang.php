@@ -18,6 +18,8 @@ $l['bad_word_desc'] = "Zadej slovo, které si přeješ, aby bylo filtrováno. Zn
 $l['bad_word_max'] = "Zakazáné slovo nemůže být delší než 100 znaků.";
 $l['replacement'] = "Nahrazeno";
 $l['replacement_desc'] = "Zadejte řetězec, který nahradí filtrované slovo (pokud je pole prázdné, zobrazí se hvězdičky)";
+$l['regex'] = "Regular Expression";
+$l['regex_desc'] = "Treat the \"Word\" field as a regular expression.";
 $l['replacement_word_max'] = "Nahrazené slovo nemůže být delší než 100 znaků.";
 $l['error_replacement_word_invalid'] = "Slovo, které chceš nahradit nemůže být zároveň tím samým slovem, které nemohou uživatelé použít.";
 

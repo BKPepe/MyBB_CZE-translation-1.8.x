@@ -15,6 +15,7 @@ $l['prune_mod_logs_desc'] = "Here you can prune the moderator logs matching a sp
 $l['no_modlogs'] = "Nejsou zde žádné záznamy s požadovanými kritérii.";
 
 $l['username'] = "Přezdívka";
+$l['na_deleted'] = "N/A - Been Deleted";
 $l['date'] = "Datum";
 $l['action'] = "Akce";
 $l['information'] = "Informace";

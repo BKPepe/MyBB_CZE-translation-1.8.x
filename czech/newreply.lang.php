@@ -14,7 +14,7 @@ $l['post_subject'] = "Předmět příspěvku:";
 $l['your_message'] = "Text Vaší zprávy:";
 $l['post_options'] = "Možnosti příspěvku:";
 $l['options_sig'] = "<strong>Podpis:</strong> vložit vlastní podpis (pouze pro registrované uživatele)";
-$l['options_emailnotify'] = "<strong>Oznámení emailem:</strong> dostávat oznámení o nových odpovědích emailem (pouze pro registrované uživatele)";
+$l['options_emailnotify'] = "<strong>Oznámení e-mailem:</strong> dostávat oznámení o nových odpovědích e-mailem (pouze pro registrované uživatele)";
 $l['options_disablesmilies'] = "<strong>Zablokovat smajlíky:</strong> v tomto příspěvku nebudou zobrazeni smajlíci.";
 $l['post_reply'] = "Odeslat příspěvek";
 $l['preview_post'] = "Náhled příspěvku";
@@ -46,8 +46,8 @@ $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protož
 $l['error_post_noperms'] = "Nemáte práva k úpravě tohoto konceptu.";
 
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno či IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujet administrátora.';
-$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo Vaše IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů, která je zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />
 

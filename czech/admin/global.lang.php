@@ -9,6 +9,8 @@
 
 $l['today'] = "<span title=\"{1}\">Dnes</span>";
 $l['yesterday'] = "<span title=\"{1}\">Včera</span>";
+$l['today'] = "Dnes";
+$l['yesterday'] = "Včera";
 
 $l['size_yb'] = "YB";
 $l['size_zb'] = "ZB";
@@ -138,6 +140,7 @@ $l['alt_disabled'] = "Zakázáno";
 $l['enable'] = "Zapnuto";
 $l['disable'] = "Vypnuto";
 $l['saved'] = 'Uloženo';
+$l['guest'] = 'Návštěvník';
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
