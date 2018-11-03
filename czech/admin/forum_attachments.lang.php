@@ -36,7 +36,7 @@ $l['success_count'] = '{1} příloh bylo úspěšně odebráno.';
 $l['success_no_orphans'] = "Na Vašem fóru nejsou žádné nepřiřazené přílohy.";
 
 // Confirm
-$l['confirm_delete'] = "Jsi si doopravdy jistý, že chcete zvolené přílohy nenávratně vymazat?";
+$l['confirm_delete'] = "Jsi si opravdu jistý, že chcete zvolené přílohy nenávratně vymazat?";
 
 // == Pages
 // = Stats
@@ -91,7 +91,7 @@ $l['poster_is_guest'] = "Návštěvník";
 $l['more_than'] = "Více než";
 $l['greater_than'] = "Větší než";
 $l['is_exactly'] = "Přesně";
-$l['less_than'] = "Méně než";
+$l['less_than'] = "Méně než ";
 $l['date_posted_is'] = "Bylo odesláno";
 $l['days_ago'] = "před dny";
 $l['file_size_is'] = "Velikost souboru je";
