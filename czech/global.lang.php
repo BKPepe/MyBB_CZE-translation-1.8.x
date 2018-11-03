@@ -9,7 +9,7 @@
 
 $l['redirect_width'] = "50%";
 $l['lastvisit_never'] = "Nikdy";
-$l['lastvisit_hidden'] = "(Skryté)";
+$l['lastvisit_hidden'] = "(skryté)";
 
 $l['search_button'] = 'Hledat';
 $l['toplinks_memberlist'] = "Seznam uživatelů";
@@ -71,7 +71,7 @@ $l['username1'] = "E-mailová adresa:";
 $l['username2'] = "Uživatelské jméno/E-mailová adresa:";
 $l['password'] = "Heslo:";
 $l['login_username'] = "Uživatelské jméno:";
-$l['login_username'] = "E-mail";
+$l['login_username1'] = "E-mail";
 $l['login_username2'] = "Uživatelské jméno/E-mail:";
 $l['login_password'] = "Heslo:";
 $l['lost_password'] = "Zapomněl(a) jste heslo?";
