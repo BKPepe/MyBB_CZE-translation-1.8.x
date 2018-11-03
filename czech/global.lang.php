@@ -35,7 +35,7 @@ $l['welcome_todaysposts'] = "Zobrazit příspěvky za 24h";
 $l['welcome_pms'] = "Soukromé zprávy";
 $l['welcome_pms_usage'] = "(nepřečtené {1}, celkem {2})";
 $l['welcome_back'] = "<strong>Vítejte, {1}</strong>. Vaše poslední návštěva: {2}.";
-$l['welcome_guest'] = "Zdravím hosta!";
+$l['welcome_guest'] = "Vítej návštevníku!";
 $l['welcome_current_time'] = "<strong>Aktuální čas:</strong> {1}";
 
 $l['moved_prefix'] = "Přesunuto:";
@@ -354,7 +354,7 @@ $l['seconds_short'] = "s";
 
 $l['rel_in'] = "V ";
 $l['rel_ago'] = "před";
-$l['rel_less_than'] = "méně než";
+$l['rel_less_than'] = "méně než ";
 $l['rel_time'] = "<span title=\"{5}{6}\">{4} {1}{2} {3}</span>";
 $l['rel_minutes_single'] = "minuta";
 $l['rel_minutes_plural'] = "minut(y)";
