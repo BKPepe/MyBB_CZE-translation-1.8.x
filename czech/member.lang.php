@@ -15,6 +15,12 @@ $l['nav_resetpassword'] = "Resetovat heslo";
 $l['nav_login'] = "Přihlásit se";
 $l['nav_emailuser'] = "Napsat e-mail uživateli";
 $l['nav_profile'] = "Profil uživatele {1}";
+$l['nav_referrals'] = "Users Referred by {1}";
+
+$l['referrals'] = 'Referrals';
+$l['referral_date'] = 'Referral Date:';
+$l['referrals_no_user_specified'] = 'No user specified.';
+$l['member_no_referrals'] = 'No referrals for this user.';
 
 $l['tpp_option'] = "Zobrazit na jedné stránce {1} témat";
 $l['ppp_option'] = "Zobrazit na jedné stránce {1} příspěvků";
