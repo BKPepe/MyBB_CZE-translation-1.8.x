@@ -321,7 +321,7 @@ $l['view_requests'] = "Žádosti o členství";
 $l['cannot_leave_group'] = "Tuto skupinu nemůžete opustit, protože není skupinou veřejnou.";
 $l['details'] = "Detaily";
 $l['members_referred'] = "Odkazující uživatelé:";
-$l['referral_link'] = "<br />Chcete-li odkázat uživatele na tohle fórum, nasměrujte jej na {1}/member.php?action=register&amp;referrer={2}";
+$l['referral_link'] = "<br />Chcete-li doporučit uživateli tohle fórum, nasměrujte jej na {1}/member.php?action=register&amp;referrer={2}";
 $l['redirect_subscriptionsremoved'] = "Byl vyčištěn Váš seznam odebíraných témat.<br />Nyní budete přesměrováni na stránku, ze které jste přišli.";
 $l['redirect_forumsubscriptionsremoved'] = "Byl vyčištěn Váš seznam odebíraných fór.<br />Nyní budete přesměrováni na stránku, ze které jste přišeli.";
 $l['redirect_subscriptionadded'] = "Vybrané téma bylo přidáno do Vašeho seznamu odebíraných témat.<br />Nyní budete přesměrováni na stránku, ze které jste přišeli.";
