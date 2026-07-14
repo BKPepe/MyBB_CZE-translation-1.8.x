@@ -40,3 +40,4 @@ $l['online_guest_plural'] = "hostů";
 $l['online_guest_singular'] = "host";
 $l['online_note'] = "Aktivních {1} {2} během uplynulých {3} minut (z toho {4} {5}, {6} neviditelných a {8} {9}).";
 $l['subforums'] = "<strong>Dceřiná fóra:</strong>";
+$l['board_stats_link_separator'] = ' | ';

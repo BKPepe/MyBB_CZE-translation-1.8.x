@@ -61,9 +61,7 @@ $l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";
 $l['error_invalid_token'] = "Aktivační kód, který jste zadal, je neplatný.";
 
 $l['success_logged_out'] = "Byl jste úspěšně odhlášen.";
-$l['error_invalid_username_password'] = " Přihlašovací údaje, které jste zadal, jsou nesprávné.";
-
-// Action Confirmation
+$l['error_invalid_username_password'] = "Přihlašovací údaje, které jste zadali, jsou nesprávné.";
 $l['confirm_action'] = "Jste si opravdu jistý, že chcete provést následující akci?";
 
 // Common words and phrases
@@ -127,8 +125,8 @@ $l['select_prefix'] = "Vybrané prefixy";
 $l['forums_colon'] = "Fóra:";
 $l['groups_colon'] = "Skupiny:";
 $l['prefix_colon'] = "Prefixy:";
-$l['none'] = "None";
-$l['mybb_acp'] = "MyBB ACP";
+$l['none'] = "Žádný";
+$l['mybb_acp'] = "Administrace MyBB";
 $l['pages'] = "Stránky";
 $l['previous'] = "Předchozí";
 $l['page'] = "Stránka";
@@ -248,8 +246,8 @@ $l['editor_bold'] = "Tučně";
 $l['editor_italic'] = "Kurzíva";
 $l['editor_underline'] = "Podtržené";
 $l['editor_strikethrough'] = "Přeškrtnuté";
-$l['editor_subscript'] = "Subscript";
-$l['editor_superscript'] = "Superscript";
+$l['editor_subscript'] = "Dolní index";
+$l['editor_superscript'] = "Horní index";
 $l['editor_alignleft'] = "Zarovnat doleva";
 $l['editor_center'] = "Vycentrovat";
 $l['editor_alignright'] = "Zarovnat doprava";
@@ -320,7 +318,7 @@ $l['task_checktables_ran_found'] = "Oznámení: Kontrola tabulky proběhla úsp�
 $l['task_dailycleanup_ran'] = "Úloha: Denní pročištění fóra - úspěšně proběhla.";
 $l['task_hourlycleanup_ran'] = "Úloha: Hodinové pročištění fóra: - úspěšně proběhla.";
 $l['task_logcleanup_ran'] = "Úloha: Čištění logů úspěšně proběhla a smazala všechny staré záznamy.";
-$l['task_promotions_ran'] = "The promotions task successfully ran.";
+$l['task_promotions_ran'] = "Úloha povýšení skupin byla úspěšně spuštěna.";
 $l['task_threadviews_ran'] = "Úloha: Shlédnutí témat proběhlo v pořádku.";
 $l['task_usercleanup_ran'] = "Úloha: Pročištění uživatelů úspěšně proběhla.";
 $l['task_massmail_ran'] = "Úloha: Hromadných e-mailů byla úspěšně spuštěna.";
@@ -345,11 +343,11 @@ $l['unlock_account'] = "Odemknout účet";
 
 // Email message for if an admin account has been locked out
 $l['locked_out_subject'] = "{1}: Administrátorský účet byl zablokován z důvodu mnoha neúspěšných pokusů o přihlášení";
-$l['locked_out_message'] = "Ahoj {1},
+$l['locked_out_message'] = "Dobrý den, {1},
 
-Váš administrátorský účet na stránce {2} byl zablokován.
+Váš administrátorský účet na stránce {2} byl po {3} neúspěšných pokusech o přihlášení zablokován.
 
-Je možné, že jste si nevzpomněl(a) na heslo nebo se někdo pokoušel přihlásit na Váš účet.
+Je možné, že jste si nevzpomněli na heslo nebo se někdo pokoušel přihlásit na Váš účet.
 Z bezpečnostních důvodu proto došlo k blokaci Vašeho účtu.
 
 Pro odblokování účtu, prosím, klikněte na níže uvedený odkaz:
@@ -378,7 +376,9 @@ $l['mybb_engine'] = "MyBB engine";
 // $l['login_field_width'] = "0";
 
 $l['my2fa'] = "Dvoufázové ověření";
-$l['my2fa_failed'] = "Váš kód jste zadal(a) špatně, a proto jste byl(a) odhlášen.";
+$l['my2fa_failed'] = "Zadali jste nesprávný kód, a proto jste byli odhlášeni.";
 $l['my2fa_code'] = "Prosím, zadejte Váš autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
 $l['my2fa_no_codes'] = "Poznámka: Použil jste všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštivte <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
+$l['error_mybb_not_admin_account'] = "Nemáte oprávnění k přístupu do ovládacího panelu administrace.";
+$l['task_sendmailqueue_ran'] = 'Úloha odesílání e-mailů z fronty odeslala až {1} zpráv.';

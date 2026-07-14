@@ -42,6 +42,6 @@ $l['error_delete_no_uid'] = 'Nezadal jste ID uživatele/skupiny pro nastavení a
 $l['error_delete_invalid_uid'] = 'Nezadal jste platné ID uživatele/skupiny pro nastavení administrátorských práv';
 
 $l['success_perms_deleted'] = 'Zrušení práv pro uživatele/skupinu bylo provedeno úspěšně.';
-
-$l['confirm_perms_deletion'] = "Jste si jistý, že chcete odebrat oprávnění tomuto administrátorovi, případně uživatelské skupině?";
-$l['confirm_perms_deletion2'] = "Jste si jistý, že chcete odebrat oprávnění tomuto uživateli\těmto uživatelům?";
+$l['confirm_perms_deletion'] = "Opravdu chcete odebrat oprávnění tomuto administrátorovi, případně uživatelské skupině?";
+$l['confirm_perms_deletion2'] = "Opravdu chcete odebrat oprávnění tomuto uživateli?";
+$l['confirm_perms_deletion3'] = "Opravdu chcete odebrat oprávnění této skupině?";

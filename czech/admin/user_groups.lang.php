@@ -196,8 +196,8 @@ $l['no_join_requests'] = "Pro tuto skupinu uživatelů neexistují žádné nevy
 $l['no_assigned_leaders'] = "Dosud jste nepřiřadil žádného vůdce této skupiny. Chcete-li vytvořit vůdce pro tuto skupinu, vyplňte formulář níže.";
 
 $l['error_missing_title'] = "Nezadali jste název této nové skupiny.";
-$l['error_invalid_user_group'] = "Vybral(a) jste neplatnou skupinu uživatelů.";
-$l['error_invalid_join_request'] = "Vybral(a) jste neplatnou žádost o připojení se ke skupině.";
+$l['error_invalid_user_group'] = "Vybrali jste neplatnou skupinu uživatelů.";
+$l['error_invalid_join_request'] = "Vybrali jste neplatnou žádost o připojení se ke skupině.";
 $l['error_invalid_username'] = "Vložené uživatelské jméno je neplatné.";
 $l['error_already_leader'] = "Uživatel již je vůdcem této skupiny.";
 $l['error_invalid_group_leader'] = "Vybral jste neplatného vůdce skupiny.";
@@ -220,3 +220,7 @@ $l['success_group_leader_deleted'] = "Zvolený uživatel byl úspěšně odstran
 
 $l['confirm_group_deletion'] = "Opravdu chcete smazat tuto skupinu?";
 $l['confirm_group_leader_deletion'] = "Opravdu chcete smazat vůdce této skupiny?";
+$l['can_be_invisible'] = "Může tato skupina skrýt svůj stav online?";
+$l['error_disallowed_starimage_path'] = "V cestě k obrázku hvězdy nelze použít značky script, meta nebo base.";
+$l['success_group_created_duplicate_title'] = "Nová uživatelská skupina byla úspěšně vytvořena. Upozorňujeme, že existuje více uživatelských skupin s názvem \"{1}\".";
+$l['success_group_updated_duplicate_title'] = "Vybraná uživatelská skupina byla úspěšně aktualizována. Upozorňujeme, že existuje více uživatelských skupin s názvem \"{1}\".";

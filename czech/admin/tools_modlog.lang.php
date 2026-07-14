@@ -15,7 +15,7 @@ $l['prune_mod_logs_desc'] = "Zde můžete vyčistit logy moderátorů odpovídaj
 $l['no_modlogs'] = "Nejsou zde žádné logy s požadovanými kritérii.";
 
 $l['username'] = "Uživatelské jméno";
-$l['na_deleted'] = "N/A - byl(a) smazán(a)";
+$l['na_deleted'] = "N/A - smazáno";
 $l['date'] = "Datum";
 $l['action'] = "Akce";
 $l['information'] = "Informace";

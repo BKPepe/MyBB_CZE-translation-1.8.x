@@ -10,7 +10,7 @@
 $l['plugins'] = "Pluginy";
 $l['plugins_desc'] = "Tato sekce umožňuje aktivovat, deaktivovat a spravovat pluginy, které jste nahrál do adresáře <strong>inc/plugins</strong>. Chcete-li plugin skrýt ze zobrazení, ale neztratit z něj uložené informace, klikněte na odkaz deaktivovat.";
 $l['plugin_updates'] = "Aktualizace pluginů";
-$l['plugin_updates_desc'] = "Tato sekce umožní vyhledat aktualizace pro všechny vaše pluginy.";
+$l['plugin_updates_desc'] = "Tato sekce umožní vyhledat aktualizace pro všechny Vaše pluginy.";
 $l['browse_plugins'] = "Prohlížet pluginy";
 $l['browse_plugins_desc'] = "Zde můžete procházet oficiální MyBB pluginy kompatibilní s Vaší verzí MyBB.";
 $l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
@@ -18,7 +18,7 @@ $l['browse_all_plugins'] = "Hledat mezi všemi pluginy";
 $l['plugin'] = "Plugin";
 $l['active_plugin'] = "Aktivní pluginy";
 $l['inactive_plugin'] = "Deaktivované pluginy";
-$l['your_version'] = "Tvá verze";
+$l['your_version'] = "Vaše verze";
 $l['latest_version'] = "Aktuální verze";
 $l['download'] = "Stáhnout";
 $l['deactivate'] = "Deaktivovat";

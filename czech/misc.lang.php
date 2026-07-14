@@ -29,7 +29,7 @@ $l['search_by_name'] = "Hledat podle jména";
 $l['search_by_document'] = "Hledat v dokumentech";
 $l['enter_keywords'] = "Vložit hledaná slova";
 $l['search'] = "Hledat";
-$l['redirect_searchresults'] = "Hledání začalo, budete přesměrován(a) na výsledky.";
+$l['redirect_searchresults'] = "Hledání začalo, budete přesměrováni na výsledky.";
 $l['search_results'] = "Výsledky hledání";
 $l['help_doc_results'] = "Výsledky hledání v dokumentech";
 $l['document'] = "Dokument";
@@ -54,7 +54,7 @@ $l['error_invalid_limit'] = "Vámi zadaný počet položek není platný. Prosí
 
 $l['syndication'] = "Odběr nejnovějších témat";
 $l['syndication_generated_url'] = "URL adresa pro Váš RSS odběr:";
-$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté Vám bude vytvořen odkaz, který si můžete zkopírovat do vaší RSS čtečky. <i><a href=\"http://en.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Co je RSS?</a></i>";
+$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté Vám bude vytvořen odkaz, který si můžete zkopírovat do Vaší RSS čtečky. <i><a href=\"https://en.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Co je RSS?</a></i>";
 $l['syndication_forum'] = "Fórum k odběru:";
 $l['syndication_forum_desc'] = "Napravo si vyberte fórum. Pokud stisknete CTRL, můžete učinit mnohonásobný výběr.";
 $l['syndication_version'] = "Verze RSS:";
@@ -74,4 +74,12 @@ $l['redirect_cookiescleared'] = "Všechna cookies byla odstraněna.";
 
 $l['error_invalidhelpdoc'] = "Zdá se, že daná nápověda neexistuje.";
 
-$l['dst_settings_updated'] = "Vaše nastavení letního času bylo automaticky upraveno.<br /><br />Nyní budete přesměrován(a) na hlavní stránku fóra.";
+$l['dst_settings_updated'] = "Vaše nastavení letního času bylo automaticky upraveno.<br /><br />Nyní budete přesměrováni na hlavní stránku fóra.";
+$l['no_smilies'] = "V současné době nejsou k dispozici žádní smajlíci.";
+$l['syndication_version_json1'] = "JSON Feed 1";
+$l['error_invalidforum'] = "Neplatné fórum";
+$l['error_invalidsearch'] = "Bylo zadáno neplatné vyhledávání. Vraťte se prosím zpět a zkuste to znovu.";
+$l['error_no_search_support'] = "Tento databázový stroj nepodporuje vyhledávání.";
+$l['error_searchflooding'] = "Vyhledávat lze pouze jednou za {1} s. Před dalším vyhledáváním vyčkejte prosím ještě {2} s.";
+$l['error_searchflooding_1'] = "Vyhledávat lze pouze jednou za {1} s. Před dalším vyhledáváním vyčkejte prosím ještě 1 s.";
+$l['error_minsearchlength'] = "Jeden nebo více hledaných výrazů byly kratší než minimální délka. Minimální délka hledaného výrazu je {1} znaků.<br /><br />Pokud se pokoušíte vyhledat celou frázi, uzavřete ji do dvojitých uvozovek. Například \"The quick brown fox jumps over the lazy dog\".";

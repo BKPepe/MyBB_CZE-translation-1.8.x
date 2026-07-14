@@ -64,11 +64,11 @@ $l['expiration_never'] = "Nikdy";
 $l['expiration_permanent'] = "Doživotní";
 
 $l['error_invalid_warning_level'] = "Vybraný level varování neexistuje.";
-$l['error_invalid_warning_percentage'] = "Nevybral(a) jste odpovídající procenta. Vyberte, prosím, hodnotu mezi 0 a 100.";
+$l['error_invalid_warning_percentage'] = "Nevybrali jste odpovídající procenta. Vyberte, prosím, hodnotu mezi 0 a 100.";
 $l['error_invalid_warning_type'] = "Vybraný typ varování neexistuje.";
 $l['error_missing_action_type'] = "Vyberte, prosím, jednu z akcí, které mají být podniknuty pro přiřazení k novému levelu varování.";
-$l['error_missing_type_title'] = "Nezadal(a) jste typ varování";
-$l['error_missing_type_points'] = "Nezadal(a) jste platný počet bodů přidat při poskytování upozornění tohoto typu. Musíte zadat číslo větší než 0, ale ne větší než {1}";
+$l['error_missing_type_title'] = "Nezadali jste typ varování";
+$l['error_missing_type_points'] = "Nezadali jste platný počet bodů přidat při poskytování upozornění tohoto typu. Musíte zadat číslo větší než 0, ale ne větší než {1}";
 
 $l['success_warning_level_created'] = "Level varování byl úspěšně vytvořen.";
 $l['success_warning_level_updated'] = "Level varování byl úspěšně upraven.";

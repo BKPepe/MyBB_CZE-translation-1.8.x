@@ -20,11 +20,11 @@ $l['maximum_size'] = "Maximální velikost";
 $l['no_attachment_types'] = "Na fóru nejsou momentálně žádné typy příloh.";
 
 $l['name'] = "Název";
-$l['name_desc'] = "Napiš název přípony.";
+$l['name_desc'] = "Zadejte název přípony.";
 $l['file_extension'] = "Přípona souboru";
 $l['file_extension_desc'] = "Zadejte název přípony, kterou si zde přejete nahrát. Nepište tečku před příponou! (Například: txt)";
-$l['mime_type'] = "MIME Type";
-$l['mime_type_desc'] = "Vložte typ MIME poslaný serverem při stahování souboru tohoto typu (<a href=\"http://www.freeformatter.com/mime-types-list.html\">Seznam najdete zde</a>)";
+$l['mime_type'] = "MIME typ";
+$l['mime_type_desc'] = "Vložte typ MIME poslaný serverem při stahování souboru tohoto typu (<a href=\"https://www.freeformatter.com/mime-types-list.html\">Seznam najdete zde</a>)";
 $l['maximum_file_size'] = "Maximální velikost (v KB)";
 $l['maximum_file_size_desc'] = "Největší možná velikost souboru v Kilobytech (1 MB = 1024 KB)";
 $l['limit_intro'] = "Ujistěte se, že maximální velikost odpovídá následujícím limitům PHP:";
@@ -34,18 +34,15 @@ $l['attachment_icon'] = "Ikona přílohy";
 $l['attachment_icon_desc'] = "Pokud chcete zobrazit malé ikony tohoto typu přílohy, vložte cestu k adresáři s ikonami. {theme} bude nahrazen adresářem obrázků, který umožní specifikovat ikony pro jednotlivé motivy.";
 $l['save_attachment_type'] = "Uložit typ přílohy";
 
-$l['error_invalid_attachment_type'] = "Zvolil(a) jste neplatný typ přílohy.";
-$l['error_missing_mime_type'] = "Nezadal(a) jste typ MIME pro tento typ přílohy.";
-$l['error_missing_extension'] = "Nezadal(a) jste příponu pro tento typ přílohy. ";
-
-$l['success_attachment_type_created'] = "Typ přílohy byl úspěšně přidaný.";
+$l['error_invalid_attachment_type'] = "Zvolili jste neplatný typ přílohy.";
+$l['error_missing_mime_type'] = "Nezadali jste typ MIME pro tento typ přílohy.";
+$l['error_missing_extension'] = "Nezadali jste příponu pro tento typ přílohy. ";
+$l['success_attachment_type_created'] = "Typ přílohy byl úspěšně vytvořen.";
 $l['success_attachment_type_updated'] = "Typ přílohy byl úspěšně aktualizován.";
 $l['success_attachment_type_deleted'] = "Typ přílohy byl úspěšně vymazán.";
-
-$l['confirm_attachment_type_deletion'] = "Jste si naprosto jistý, že chcete smazat tento typ přípony?";
-
-$l['success_activated_attachment_type'] = 'Zvolený typ přílohy byl úspěšně přidán.';
-$l['success_deactivated_attachment_type'] = 'Zvolený typ přílohy byl úspěšně odstraněn.';
+$l['confirm_attachment_type_deletion'] = "Opravdu si přejete smazat tento typ přípony?";
+$l['success_activated_attachment_type'] = 'Zvolený typ přílohy byl úspěšně aktivován.';
+$l['success_deactivated_attachment_type'] = 'Zvolený typ přílohy byl úspěšně deaktivován.';
 
 $l['enabled'] = "Povolit?";
 $l['avatar_file'] = 'Přípona pro avatar';
@@ -53,3 +50,5 @@ $l['avatar_file_desc'] = 'Chcete nastavit tento typ přílohy, aby byl použitel
 
 $l['available_to_groups'] = 'Povolené pro skupiny';
 $l['available_in_forums'] = 'Povolené pro fóra';
+$l['forcedownload'] = "Vynutit stažení";
+$l['forcedownload_desc'] = "Povolením této možnosti bude příloha vždy stažena jako soubor.";

@@ -51,3 +51,4 @@ $l['date_revoked'] = "Datum, kdy bylo zrušeno:";
 $l['error_already_revoked'] = "Toto upozornění již bylo zrušeno.";
 $l['error_no_revoke_reason'] = "Nezadal jste důvod, proč chcete zrušit toto napomenutí.";
 $l['redirect_warning_revoked'] = "Toto napomenutí bylo úspěšně odebráno a uživateli byly sníženy trestné body.";
+$l['warning_points'] = "({1} bodů)";

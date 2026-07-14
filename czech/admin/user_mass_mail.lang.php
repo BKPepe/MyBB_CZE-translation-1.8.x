@@ -26,7 +26,7 @@ $l['personalize_message'] = "Přizpůsobit tuto zprávu:";
 
 $l['message_settings'] = "Nastavení zprávy";
 $l['subject'] = "Předmět";
-$l['subject_desc'] = "Zadej předmět zprávy.";
+$l['subject_desc'] = "Zadejte předmět zprávy.";
 $l['send_via_email'] = "Poslat e-mailem";
 $l['send_via_pm'] = "Poslat soukromou zprávou";
 $l['message_type'] = "Typ zprávy";
@@ -89,11 +89,10 @@ $l['review_text_version'] = "Zkontrolovat verzi textu";
 $l['review_text_version_desc'] = "Zkontrolujte automaticky generovaný text";
 
 $l['step_one'] = "1. krok";
-
-$l['status'] = "Status";
+$l['status'] = "Stav";
 $l['recipients'] = "Příjemci";
 $l['delivered'] = "Doručeno";
-$l['canceled'] = "Canceled";
+$l['canceled'] = "Zrušeno";
 $l['resend'] = "Znovu odeslat";
 $l['no_archived_messages'] = "Nemáte žádné dříve odeslané nebo zrušené hromadné e-maily.";
 
@@ -103,10 +102,9 @@ $l['delivering'] = "Odesílá se";
 $l['na'] = "N/A";
 $l['mass_mail_cancel_confirmation'] = "Opravdu chcete zrušit odesílání tohoto hromadného e-mailu?";
 $l['no_unsent_messages'] = "Ve frontě nejsou žádné neodeslané nebo čekající hromadné e-maily.";
-
-$l['error_invalid_mid'] = "Vybral jsi neplatný hromadný e-mail";
+$l['error_invalid_mid'] = "Vybrali jste neplatný hromadný e-mail.";
 $l['error_only_in_future'] = "Hromadný e-mail můžete odeslat pouze v budoucnu.";
-$l['error_no_users'] = "Kritéria vyhledávání nenašla žádné uživatele. Uprav kritéria a opakuj akci.";
+$l['error_no_users'] = "Kritéria vyhledávání nenašla žádné uživatele. Upravte kritéria a opakujte akci.";
 $l['error_missing_plain_text'] = "Nezadal jste verzi této zprávy ve formátu prostého textu.";
 $l['error_missing_subject'] = "Nezadal jste předmět pro tuto hromadnou korespondenci.";
 $l['error_missing_message'] = "Nezadal jste zprávu, kterou chcete odeslat.";
@@ -119,3 +117,4 @@ $l['success_mass_mail_resent'] = "Probíhá znovu odeslání e-mailu uživatelů
 $l['success_mass_mail_canceled'] = "Hromadné odeslání e-mailu bylo úspěšně zrušeno.";
 
 $l['mass_mail_deletion_confirmation'] = "Opravdu chcete odstranit tento hromadný e-mail?";
+$l['additional_user_groups_desc'] = "Pro výběr více skupin podržte klávesu CTRL";

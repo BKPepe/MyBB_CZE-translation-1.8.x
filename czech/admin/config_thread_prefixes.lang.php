@@ -27,8 +27,7 @@ $l['display_style'] = "Styl zobrazení";
 $l['display_style_desc'] = "Takto se bude předpona před názvem zobrazovat. Můžete sem zadat HTML tag pro jendoduché přidělení předpony.";
 $l['available_in_forums'] = "Dostupné ve fóru";
 $l['available_to_groups'] = "Dostupné ve skupinách";
-
-$l['no_thread_prefixes'] = "Na vašem fóru nejsou nastaveny žádné předpony.";
+$l['no_thread_prefixes'] = "Na Vašem fóru nejsou nastaveny žádné předpony.";
 
 $l['confirm_thread_prefix_deletion'] = "Opravdu chcete odstranit tuto předponu vlákna?";
 
@@ -41,3 +40,5 @@ $l['error_missing_display_style'] = "Zvolte, prosím, zobrazení předpony.";
 $l['error_no_forums_selected'] = "Vyberte, prosím, fórum, kde se bude tato předpona zobrazovat.";
 $l['error_no_groups_selected'] = "Vyberte, prosím, skupinu, kde se bude tato předpona zobrazovat.";
 $l['error_invalid_prefix'] = "Vybrané téma neexistuje.";
+$l['thread_prefixes_in'] = "Prefixy témat v \"{1}\"";
+$l['forums'] = "Dostupné ve fórech";

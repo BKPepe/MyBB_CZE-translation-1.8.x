@@ -78,7 +78,7 @@ $l['away_since'] = "Pryč od:";
 $l['away_returns'] = "Vrátí se:";
 $l['away_no_reason'] = "Neuvedeno.";
 $l['ban_note'] = "Toto fórum je momentálně zabanované.";
-$l['ban_by'] = "Zabanoval(a)";
+$l['ban_by'] = "Zabanoval";
 $l['ban_length'] = "Doba trvání banu";
 $l['ban_remaining'] = "Doba, kdy vyprší ban";
 
@@ -89,7 +89,7 @@ $l['users_signature'] = "Podpis uživatele: {1}";
 $l['agreement'] = "registrační podmínky";
 $l['agreement_1'] = "Ačkoliv se snažíme upravovat nebo odstraňovat všechny příspěvky, které obsahují nevhodný, sexuálně orientovaný, urážlivý, škodlivý, výhružný, vyděračský obsah, který může být považován za útočný, nebo narušující soukromí osoby, nebo porušuje kteroukoliv právní normu, není to možné ani dělat průběžně, ani vyčerpávajícím způsobem. Z uvedeného důvodu musíte akceptovat, že všechny příspěvky uvedené v tomto fóru vyjadřují názory, postoje a zkušenosti jejich původních autorů, a nikoliv nutně provozovatelů tohoto fóra. Provozovatelé tohoto fóra nepřebírají žádnou zodpovědnost za žádný z příspěvků. Neručíme ani za přesnost, správnost a úplnost kteréhokoliv z příspěvků, ani toto negarantujeme.";
 $l['agreement_2'] = "Tím, že se zaregistrujete do tohoto diskusního systému vyslovujete souhlas s tím, že nebudete šířit vědomě nepravdivé, zavádějící, urážlivé, výhružné, sexuálně zaměřené, vydírající nebo soukromí narušující příspěvky, nebo materiál, který odporuje kterékoliv právní normě.";
-$l['agreement_3'] = "Porušení kteréhokoliv z uvedených pravidel může vést k omezení, nebo dokonce k ukončení vašeho členství ve fóru. Ke každému publikovanému příspěvku si zaznamenáváme IP adresu uživatele, který příspěvek napsal. Tímto vyjadřujete svůj souhlas, že mámo právo upravit, odstranit, nebo uzamknout jakýkoliv účet nebo zprávu, a to kdykoliv to budeme považovat za vhodné. Tímto vyjadřujete souhlas s tím, že veškeré informace, které zde zadáváte, jsou ukládány do databáze a také souhlasíte s tím, že do Vašeho zařízení jsou ukládány \"cookies\", které obsahují vaše přihlašovací údaje.";
+$l['agreement_3'] = "Porušení kteréhokoliv z uvedených pravidel může vést k omezení, nebo dokonce k ukončení Vašeho členství ve fóru. Ke každému publikovanému příspěvku si zaznamenáváme IP adresu uživatele, který příspěvek napsal. Tímto vyjadřujete svůj souhlas, že máme právo upravit, odstranit, nebo uzamknout jakýkoliv účet nebo zprávu, a to kdykoliv to budeme považovat za vhodné. Tímto vyjadřujete souhlas s tím, že veškeré informace, které zde zadáváte, jsou ukládány do databáze a také souhlasíte s tím, že do Vašeho zařízení jsou ukládány \"cookies\", které obsahují Vaše přihlašovací údaje.";
 $l['agreement_4'] = "Žádná informace, kterou poskytnete do tohoto fóra, nebude vyzrazena žádné třetí straně bez Vašeho osobního písemného souhlasu. Je však třeba poznamenat, že provozovatelé nemohou být zodpovědní za úmyslné narušení nebo odcizení dat, například prostřednictvím počítačové kriminality (tzv. hacking).";
 $l['agreement_5'] = "Pokračováním v registračním procesu vyslovujete svůj souhlas s výše uvedenými pravidly a zásadami.";
 $l['registration'] = "Registrace";
@@ -107,7 +107,7 @@ $l['account_prefs'] = "Nastavení účtu:";
 $l['invisible_mode'] = "Nechci být zobrazen na seznamu právě přihlášených uživatelů.";
 $l['allow_notices'] = "Dostávat e-maily od administrátora.";
 $l['hide_email'] = "Nezobrazovat moji e-mailovou adresu ostatním uživatelům.";
-$l['email_notify'] = "Automaticky odebírat příspěvky témat, do kterých jsem napsal(a) příspěvek.";
+$l['email_notify'] = "Automaticky odebírat příspěvky témat, ve kterých mám příspěvek.";
 $l['receive_pms'] = "Dostávat soukromé zprávy od ostatních uživatelů.";
 $l['pm_notice'] = "Upozornit na nové soukromé zprávy oznámením.";
 $l['email_notify_newpm'] = "Upozornit na nové soukromé zprávy e-mailem.";
@@ -144,7 +144,7 @@ $l['coppa_agreement_1'] = "Uživatelé, kterým není ještě 13 let, musí k re
 $l['coppa_agreement_2'] = "Rodič, nebo zákonný zástupce si musí stáhnout, vyplnit a doručit formulář <a href=\"member.php?action=coppa_form\" target=\"_blank\" rel=\"noopener\">Soulad s COPPA &amp; Udělení souhlasu</a> ještě před založením účtu uživatele.";
 $l['coppa_agreement_3'] = "Pokud chcete můžete zahájit registraci již nyní, avšak účet uživatele nebude aktivní do té doby, dokud neobdržíme souhlas.";
 
-$l['error_invalid_birthday'] = 'Zadal(a) jste chybné datum narození. Prosím, opravte to.';
+$l['error_invalid_birthday'] = 'Zadali jste chybné datum narození. Prosím, opravte to.';
 $l['error_awaitingcoppa'] = "Pod tímto účtem se zatím nemůžete přihlásit, protože jsme ještě neobdrželi Soulad s COPPA od Vašeho rodiče, nebo zákonného zástupce.<br /><br />Rodič, nebo zákonný zástupce musí stáhnout, vyplnit a doručit formulář <a href=\"member.php?action=coppa_form\">Soulad s COPPA &amp; Udělení souhlasu</a>.<br /><br />Až jej dostaneme, aktivujeme příslušný účet uživatele.";
 
 $l['lang_select'] = "Změna jazyka fóra:";
@@ -170,7 +170,7 @@ $l['verification_subnote'] = "(necitlivé na velikost)";
 $l['registration_errors'] = "Během Vaší registrace došlo k následujícím chybám:";
 $l['timeonline'] = "Strávený čas online:";
 $l['timeonline_hidden'] = "(skrytý)";
-$l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor(ka) dočasně pozastavil(a) registraci nových účtů. Vraťte se, prosím, později.";
+$l['registrations_disabled'] = "Bohužel se nyní nemůžete registrovat. Administrátor dočasně pozastavil registraci nových účtů. Vraťte se prosím později.";
 $l['error_username_length'] = "Vaše uživatelské jméno není platné. Musí obsahovat od {1} do {2} znaků.";
 $l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo e-mailová adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
 $l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vašeho účtu s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
@@ -216,10 +216,10 @@ $l['redirect_registered_passwordsent'] = "Bylo vygenerováno náhodné heslo a o
 $l['redirect_validated'] = "Váš účet byl ověřen.<br />Nyní budete přesměrováni na hlavní stránku.";
 
 $l['error_activated_by_admin'] = "Aktivační e-mail nelze poslat znovu, protože registrace musí být schválena administrátorem.";
-$l['error_alreadyregistered'] = "Naše záznamy ukazují, že jste se v tomto fóru již zaregistroval(a). Vícenásobné registrace nejsou povoleny.";
+$l['error_alreadyregistered'] = "Naše záznamy ukazují, že jste se v tomto fóru již zaregistrovali. Vícenásobné registrace nejsou povoleny.";
 $l['error_alreadyregisteredtime'] = "V registraci nelze pokračovat, neboť z Vaší IP adresy již bylo za období posledních {2} hodin učiněno {1} nových registrací. Zkuste to, prosím, později.";
-$l['error_badlostpwcode'] = "Zadal(a) jste chybný resetovací kód. Prosím, přečtěte si ještě jednou přijatý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
-$l['error_badactivationcode'] = "Zadal(a) jste chybný aktivační kód. Pro další odeslání aktivačního e-mailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
+$l['error_badlostpwcode'] = "Zadali jste chybný resetovací kód. Prosím, přečtěte si ještě jednou přijatý e-mail, nebo kontaktujte administrátora s prosbou o další pomoc.";
+$l['error_badactivationcode'] = "Zadali jste chybný aktivační kód. Pro další odeslání aktivačního e-mailu klikněte <a href=\"member.php?action=resendactivation\">zde</a>.";
 $l['error_alreadyactivated'] = "Váš účet byl již aktivován nebo nepotřebuje e-mailovou verifikaci.";
 $l['error_alreadyvalidated'] = "Váš e-mail již byl ověřen.";
 $l['error_nothreadurl'] = "Vaše zpráva neobsahuje adresu tématu. K tomuto účelu využijte možnost \"Poslat příteli\".";
@@ -228,7 +228,7 @@ $l['error_notloggedout'] = "Nelze Vás odhlásit. Stává se to, pokud Vás chce
 $l['error_regimageinvalid'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
 $l['error_regimagerequired'] = "Pro pokračování v přihlašování je nutné opsat verifikační kód z obrázku přesně tak, jak je zobrazen.";
 $l['error_spam_deny'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci. Pokud je to omyl, kontaktujte administrátora.";
-$l['error_spam_deny_time'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci. Registrace musí trvat minimálně {1} sekund, aby se zabránilo registracím robotem. Vy jste se zaregistroval(a) za {2} sekundy. Pokud je to omyl, kontaktujte administrátora.";
+$l['error_spam_deny_time'] = "Systém detekoval, že můžete být spamer, takže Vám zakázal registraci. Registrace musí trvat minimálně {1} sekund, aby se zabránilo registracím robotem. Zaregistrovali jste se za {2} sekundy. Pokud je to omyl, kontaktujte administrátora.";
 
 $l['js_validator_no_username'] = "Musíte vložit uživatelské jméno.";
 $l['js_validator_invalid_email'] = "Musíte vložit platnou e-mailovou adresu.";
@@ -239,7 +239,7 @@ $l['js_validator_password_matches'] = "Zadané heslo musí souhlasit.";
 $l['js_validator_password_complexity'] = "Zjišťuji složitost hesla.";
 $l['js_validator_password_length'] = "Vaše heslo musí být dlouhé {1} nebo více znaků.";
 $l['js_validator_not_empty'] = "Je nutné pro toto pole vybrat nebo vložit údaj.";
-$l['js_validator_bad_password_security'] = 'Heslo, které jsi zadal, je podobné tvé přezdívce nebo e-mailové adrese. Prosím, zadej silnější heslo.';
+$l['js_validator_bad_password_security'] = 'Heslo, které jste zadali, je podobné Vašemu uživatelskému jménu nebo e-mailové adrese. Zadejte prosím silnější heslo.';
 $l['js_validator_checking_username'] = "Zjišťuji, zda je uživatelské jméno volné.";
 $l['js_validator_username_length'] = "Uživatelské jméno musí být dlouhé {1} až {2} znaků.";
 $l['js_validator_checking_referrer'] = "Zjišťuji, zda doporučující uživatel existuje.";
@@ -270,3 +270,4 @@ Uživatelské jméno: {3}
 
 Děkujeme
 Vedení fóra {2}";
+$l['coppa_desc_for_deny'] = "Chcete-li se registrovat na těchto fórech, musíme ověřit Váš věk, abychom vyhověli zákonu <a href=\"https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule\" title=\"Children's Online Privacy Protection Act\" target=\"_blank\" rel=\"noopener\">COPPA</a>. Zadejte prosím své datum narození níže.";

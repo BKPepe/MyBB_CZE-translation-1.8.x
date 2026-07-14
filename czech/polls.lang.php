@@ -43,19 +43,20 @@ $l['redirect_pollposted'] = "Vaše anketa byla vytvořena.<br />Nyní budete př
 $l['redirect_pollpostedmoderated'] = "Vaše anketa bylo založeno, ale Vaše téma stále čeká na schválení moderátorem.<br />Nyní budete přesměrováni do fóra.";
 $l['redirect_pollupdated'] = "Anketa byla aktualizována.<br />Nyní budete přesměrováni do tématu.";
 $l['redirect_votethanks'] = "Děkujeme za Váš hlas.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_unvoted'] = "Vaše hlasování v tomto tématu bylo odstraněno.<br />Nyní budete přesměrován(a) do tématu.";
-$l['redirect_polldeleted'] = "Anketa byla z tématu úspěšně odstraněna.<br />Nyní budete přesměrován(a) do tématu.";
+$l['redirect_unvoted'] = "Vaše hlasování v tomto tématu bylo odstraněno.<br />Nyní budete přesměrováni do tématu.";
+$l['redirect_polldeleted'] = "Anketa byla z tématu úspěšně odstraněna.<br />Nyní budete přesměrováni do tématu.";
 
 $l['error_polloptiontoolong'] = "Nejméně jedna z Vámi zadaných odpovědí v anketě přesáhla povolený limit. Vraťte se prosím a zkraťte ji.";
 $l['error_noquestionoptions'] = "Buď nebyla zadána otázka, nebo je příliš málo odpovědí (minimálně 2).<br />Vraťte se prosím a opravte to.";
 $l['error_pollalready'] = "Téma již obsahuje anketu!";
 $l['error_nopolloptions'] = "Zadaná možnost ankety neexistuje nebo je chybná.";
 $l['error_maxpolloptions'] = "Hlasovali jste pro příliš mnoho odpovědí. Můžete hlasovat pouze pro {1} odpovědi.<br />Vraťte se prosím a zkuste to znovu.";
-$l['error_alreadyvoted'] = "Této ankety jste se již zúčastnil(a).";
-$l['error_notvoted'] = "V této anketě jste nehlasoval(a).";
+$l['error_alreadyvoted'] = "Této ankety jste se již zúčastnili.";
+$l['error_notvoted'] = "V této anketě jste nehlasovali.";
 $l['error_invalidpoll'] = "Zadaná anketa neexistuje, nebo je chybná.";
 $l['error_pollclosed'] = "Nelze hlasovat v anketě, která je uzavřená.";
-$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor(ka) nastavil(a) možnost vkládání anket pouze během {1} hodin po založení tématu.";
+$l['poll_time_limit'] = "Nelze vložit anketu do tématu. Administrátor nastavil možnost vkládání anket pouze během {1} hodin po založení tématu.";
 
 $l['poll_deleted'] = "Odstraněná anketa";
 $l['poll_edited'] = "Upravená anketa";
+$l['error_polloptionsequence'] = "Jedna nebo více zadaných možností ankety obsahují sekvenci, která by se v nich neměla používat: <strong>||~|~||</strong>. Vraťte se zpět a odstraňte ji.";

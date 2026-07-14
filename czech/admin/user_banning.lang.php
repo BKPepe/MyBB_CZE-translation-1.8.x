@@ -20,9 +20,9 @@ $l['disallowed_usernames'] = "Nepovolené/zakázáné přezdívky";
 $l['disallowed_email_addresses'] = "Nepovolené/zakázáné e-mailové adresy";
 
 // Errors
-$l['error_invalid_ban'] = "Vybral(a) jste neplatný ban pro úpravu.";
-$l['error_invalid_username'] = "Uživatelské jméno, které jste zadal(a), je nesprávné nebo neexistuje.";
-$l['error_no_perm_to_ban'] = "Nemáte dostatečná oprávnění, abyste mohl(a) zabanovat daného uživatele.";
+$l['error_invalid_ban'] = "Vybrali jste neplatný ban pro úpravu.";
+$l['error_invalid_username'] = "Zadané uživatelské jméno je nesprávné nebo neexistuje.";
+$l['error_no_perm_to_ban'] = "Nemáte dostatečná oprávnění, abyste mohli zabanovat daného uživatele.";
 $l['error_already_banned'] = "Uživatel již patří do skupiny, která je zabanovaná a nelze jej znovu zabanovat.";
 $l['error_ban_self'] = "Nemůžete sám sebe zabanovat.";
 $l['error_no_reason'] = "Zapomněl jste zadat důvod zabanování.";
@@ -56,7 +56,7 @@ $l['na'] = "N/A";
 $l['for'] = "pro";
 $l['bannedby_x_on_x'] = "<strong>{1}</strong><br /><small>Zabanovaný od {2} na {3} {4}</small>";
 $l['lift'] = "Upravit";
-$l['no_banned_users'] = "Prozatím jste žádného uživatele nezabanoval(a).";
+$l['no_banned_users'] = "Prozatím nebyli zabanováni žádní uživatelé.";
 $l['prune_threads_and_posts'] = "Smazat témata &amp; příspěvky";
 
 // Buttons

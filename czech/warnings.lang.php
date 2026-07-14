@@ -37,13 +37,13 @@ $l['points'] = "Body(ů):";
 $l['details_reason'] = "Důvod";
 $l['warn_user_desc'] = "Zde můžete zvýšit úroveň varování tohoto uživatele, pokud porušil jedno nebo více pravidel.";
 $l['send_pm'] = "Upozornit uživatele:";
-$l['send_user_warning_pm'] = "Poslat tomuto uživateli soukromou zprávu, že dostal(a) varování.";
+$l['send_user_warning_pm'] = "Poslat tomuto uživateli soukromou zprávu o udělení varování.";
 $l['send_pm_subject'] = "Předmět:";
-$l['warning_pm_subject'] = "Dostal(a) jste varování.";
+$l['warning_pm_subject'] = "Bylo Vám uděleno varování.";
 $l['send_pm_message'] = "Zpráva:";
 $l['warning_pm_message'] = "{1},
 
-právě jste od vedení fóra {2} dostal(a) varování.
+právě Vám bylo uděleno varování od vedení fóra {2}.
 --
 
 --";
@@ -58,8 +58,8 @@ $l['redirect_warned_banned'] = "<br /><br />Tento uživatel byl také přidán d
 $l['redirect_warned_suspended'] = "<br /><br />Uživatelova oprávnění k publikaci byla pozastavena, protože {1}.";
 $l['redirect_warned_moderate'] = "<br /><br />Všechny příspěvky uživatele nyní budou moderovány, protože {1}.";
 $l['redirect_warned_pmerror'] = "<br /><br />SZ nebyla odeslána.";
-$l['redirect_warned'] = "Úroveň varování {1} byla zvýšena na {2}%.{3}<br /><br />Nyní budete přesměrován(a) zpět, odkud jste přišel(a).";
-$l['error_warning_system_disabled'] = "Nemůžete použít systém varování, protože ho administrátor(ka) fóra zakázal(a).";
+$l['redirect_warned'] = "Úroveň varování {1} byla zvýšena na {2}%.{3}<br /><br />Nyní budete přesměrováni zpět, odkud jste přišli.";
+$l['error_warning_system_disabled'] = "Nemůžete použít systém varování, protože ho Administrátor fóra zakázal.";
 $l['error_cant_warn_group'] = "Nemáte oprávnění varovat uživatele z této skupiny.";
 $l['error_invalid_user'] = "Zvolený uživatel neexistuje.";
 $l['details'] = "Detaily";
@@ -69,7 +69,7 @@ $l['warning_details'] = "Detaily varování";
 $l['revoke_warning'] = "Zrušit toto varování";
 $l['revoke_warning_desc'] = "Pro zrušení tohoto varování, prosím, uveďte níže důvod. Při zrušení varování nebudou zrušeny případná omezení ani jiné tresty související s tímto varováním.";
 $l['warning_is_revoked'] = "Toto varování bylo zrušeno";
-$l['revoked_by'] = "Zrušil(a)";
+$l['revoked_by'] = "Zrušil";
 $l['date_revoked'] = "Datum zrušení";
 $l['warning_already_revoked'] = "Toto varování již bylo zrušeno.";
 $l['no_revoke_reason'] = "Neuvedli jste důvod ke zrušení toto varování.";

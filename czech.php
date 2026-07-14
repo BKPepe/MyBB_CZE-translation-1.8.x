@@ -29,7 +29,7 @@ $langinfo['support_link'] = "https://github.com/Eldenroot/MyBB_CZE-translation-1
 $langinfo['additional_name'] = "MyBB_CZE-translation-1.8.x";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1829";
+$langinfo['version'] = "1840";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;

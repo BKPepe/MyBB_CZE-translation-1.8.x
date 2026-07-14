@@ -10,14 +10,14 @@
 $l['mod_tools'] = "Nástroje moderátorů";
 
 $l['thread_tools'] = "Nástroje pro vlákna";
-$l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje.";
+$l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě Vašeho fóra. Zde můžete spravovat své vlastní nástroje.";
 
 $l['add_thread_tool'] = "Přidat nástroje témat";
 $l['add_new_thread_tool'] = "Přidat nový nástroj témat";
 $l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního vlákna. Tento nástroj bude přístupný z inline moderování vlákna, které jsou uvedeny s výchozími nástroji moderování.";
 
 $l['post_tools'] = "Nástroje pro příspěvky";
-$l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
+$l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě Vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
 
 $l['add_post_tool'] = "Přidat nástroje příspěvků";
 $l['add_new_post_tool'] = "Přidat nový nástroj příspěvků";
@@ -125,10 +125,11 @@ $l['send_private_message'] = 'Poslat soukromou zprávu';
 $l['private_message_message'] = 'Zpráva';
 $l['private_message_message_desc'] = 'Pošle zprávu autorovi vlákna. Zanechte prázdné pro vypnutí této funkce.';
 $l['private_message_subject'] = 'Předmět';
-$l['private_message_subject_desc'] = 'Zadej předmět soukromé zprávy.';
-
-$l['error_missing_title'] = "Zadej, prosím, název pro tento nástroj.";
-$l['error_missing_description'] = "Zadej, prosím, krátký popis nástroje.";
+$l['private_message_subject_desc'] = 'Zadejte předmět soukromé zprávy.';
+$l['error_missing_title'] = "Zadejte prosím název pro tento nástroj.";
+$l['error_missing_description'] = "Zadejte prosím krátký popis tohoto nástroje.";
 $l['error_no_forums_selected'] = "Vyberte, prosím, fórum, pro které bude tento nástroj dostupný.";
 $l['error_no_groups_selected'] = "Vyberte, prosím, skupinu, pro kterou bude tento nástroj dostupný.";
 $l['error_forum_is_category'] = "Nemůžete vybrat fórum kategorií jako cílové fórum.";
+$l['subject_message_replacements'] = "Dostupné náhrady";
+$l['subject_message_replacements_desc'] = "{subject} představuje původní předmět. {username} představuje uživatelské jméno moderátora. {author} představuje uživatelské jméno autora tématu.";

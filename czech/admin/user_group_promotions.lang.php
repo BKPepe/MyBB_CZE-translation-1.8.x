@@ -73,18 +73,17 @@ $l['primary'] = "Primární";
 $l['error_no_promo_id'] = 'Nezadal jste ID povýšení.';
 $l['error_invalid_promo_id'] = 'Nezadal jste platné ID povýšení';
 
-$l['error_no_title'] = "Nezadal(a) jste název tohoto povýšení";
-$l['error_no_desc'] = "Nezadal(a) jste popis tohoto povýšení";
-$l['error_no_requirements'] = "Nevybral(a) jste alespoň jednu podmínku pro získání povýšení";
-$l['error_no_orig_usergroup'] = "Nevybral(a) jste alespoň jednu skupinu uživatelů pro toto povýšení";
-$l['error_no_new_usergroup'] = "Nevybral(a) jste alespoň jednu novou skupinu uživatel pro toto povýšení";
-$l['error_no_usergroup_change_type'] = "Nevybral(a) jste alespoň jednu uživatelskou skupinu pro změnu povýšení.";
+$l['error_no_title'] = "Nezadali jste název tohoto povýšení";
+$l['error_no_desc'] = "Nezadali jste popis tohoto povýšení";
+$l['error_no_requirements'] = "Nevybrali jste alespoň jednu podmínku pro získání povýšení";
+$l['error_no_orig_usergroup'] = "Nevybrali jste alespoň jednu skupinu uživatelů pro toto povýšení";
+$l['error_no_new_usergroup'] = "Nevybrali jste alespoň jednu novou skupinu uživatel pro toto povýšení";
+$l['error_no_usergroup_change_type'] = "Nevybrali jste alespoň jednu uživatelskou skupinu pro změnu povýšení.";
 
 $l['success_promo_disabled'] = 'Povýšení vybrané skupiny bylo úspěšně zrušeno.';
 $l['success_promo_deleted'] = 'Povýšení vybrané skupiny bylo úspěšně smazáno.';
 $l['success_promo_enabled'] = 'Povýšení vybrané skupiny bylo úspěšně povoleno. ';
 $l['success_promo_updated'] = 'Povýšení vybrané skupiny bylo úspěšně upraveno.';
 $l['success_promo_added'] = 'Povýšení bylo úspěšně vytvořeno.';
-
-$l['confirm_promo_disable'] = "Jste si jistý, že chcete toto povýšení zakázat?";
-$l['confirm_promo_deletion'] = "Jste si jistý, že chcete toto povýšení smazat?";
+$l['confirm_promo_disable'] = "Opravdu chcete toto povýšení zakázat?";
+$l['confirm_promo_deletion'] = "Opravdu chcete toto povýšení smazat?";
