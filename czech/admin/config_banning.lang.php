@@ -43,5 +43,5 @@ $l['success_ip_banned'] = "IP adresa byla úspěšně zabanována.";
 $l['success_username_disallowed'] = "Uživatelské jméno bylo úspěšně zakázáno.";
 $l['success_email_disallowed'] = "E-mailová adresa byla úspěšně zakázána.";
 $l['success_ban_deleted'] = "Právě jste odbanoval uživatele.";
-
-$l['confirm_ban_deletion'] = "Jste si jistý, že chcete zrušit tento ban?";
+$l['confirm_ban_deletion'] = "Opravdu chcete zrušit tento ban?";
+$l['error_filter_not_found'] = "Zadaný filtr neexistuje.";

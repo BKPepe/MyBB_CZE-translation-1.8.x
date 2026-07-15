@@ -101,7 +101,7 @@ $l['no_forums'] = "Nebylo nalezeno žádné fórum.";
 $l['no_moderators'] = "Nebyl nalezen žádný moderátor.";
 
 $l['success_forum_disporder_updated'] = "Pořadí zobrazení fóra bylo úspěšně aktualizováno.";
-$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. Bylo by vhodné, abyste spustil(a) nástroj <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; znovu vytvořit</a>.";
+$l['success_forum_deleted'] = "Vybrané fórum bylo úspěšně smazáno. Doporučujeme spustit nástroj <a href=\"index.php?module=tools-recount_rebuild\">Přepočítat &amp; znovu vytvořit</a>.";
 $l['success_moderator_deleted'] = "Vybraný moderátor byl úspěšně smazán.<br>Prosím, pamatujte že to nezměnilo oprávnění tohoto uživatele a může tak stále mít pravomoci pro moderování.";
 $l['success_forum_permissions_updated'] = "Oprávnění fóra byla úspěšně aktualizována.";
 $l['success_forum_updated'] = "Nastavení fóra bylo úspěšně aktualizováno.";
@@ -116,8 +116,8 @@ $l['error_forum_parent_itself'] = "Fórum nemůže být samostatně nadřazené.
 $l['error_incorrect_moderator'] = "Prosím vyberte platného moderátora.";
 
 $l['confirm_moderator_deletion'] = "Jste si naprosto jistý, že chcete odstranit moderátora z tohoto fóra?";
-$l['confirm_forum_deletion'] = "Jste si jistý, že chcete odstranit toto fórum?";
-$l['confirm_clear_custom_permission'] = "Jste si jistý, že chcete smazat vlastní oprávnění?";
+$l['confirm_forum_deletion'] = "Opravdu chcete smazat toto fórum?";
+$l['confirm_clear_custom_permission'] = "Opravdu chcete smazat vlastní oprávnění?";
 
 $l['forum_type'] = "Typ fóra";
 $l['forum_type_desc'] = "Vyberte typ fóra, které vytváříte - fórum, ve kterém můžete psát, nebo kategorii, která obsahuje jiná fóra.";
@@ -276,6 +276,7 @@ $l['polls_field_canpostpolls'] = "Může vytvářet ankety?";
 $l['polls_field_canvotepolls'] = "Může hlasovat v anketách?";
 
 $l['misc_field_cansearch'] = "Může na fóru vyhledávat?";
-
-$l['confirm_proceed_deletion'] = "Klikni \"Pokračovat\" ke smazání tohoto fóra.";
+$l['confirm_proceed_deletion'] = "Klikněte na tlačítko „Pokračovat“ pro smazání tohoto fóra.";
 $l['automatically_redirecting'] = "Automatické přesměrování…";
+$l['forum_thread_prefixes'] = "Prefixy témat";
+$l['permissions_user'] = "Uživatel";

@@ -10,8 +10,8 @@
 $l['system_health'] = "Stav fóra";
 $l['system_health_desc'] = "Zde můžete najít statistiky a informace o stavu fóra.";
 $l['utf8_conversion'] = "UTF-8 konverze";
-$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budete přesměrován(a) na hlavní stránku konverze UTF-8.";
-$l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak ti pomůže je převést formát UTF-8.";
+$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budete přesměrováni na hlavní stránku konverze UTF-8.";
+$l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak Vám pomůže je převést na formát UTF-8.";
 
 $l['convert_all'] = "Převést vše";
 $l['converting_to_utf8'] = "MyBB převádí \"{1}\" tabulku na podporu UTF-8 z {2}.";
@@ -20,7 +20,7 @@ $l['convert_all_to_utf'] = "Chystáte se převést všechny tabulky z kódován�
 $l['convert_all_to_utf8mb4'] = "Chystáte se převést všechny tabulky na 4-Byte UTF-8 kódování z {1} kódování.";
 $l['converting_to_utf8mb4'] = "MyBB právě převádí tabulku \"{1}\" na 4-Byte UTF-8 kódování z {2} kódování.";
 $l['please_wait'] = "Počkejte, prosím…";
-$l['converting_table'] = "Převádí se tabulka:";
+$l['converting_table'] = "Převádí se tabulka: {1}";
 $l['convert_table'] = "Převést tabulku";
 $l['convert_tables'] = "Převést všechny tabulky";
 $l['convert_database_table'] = "Převést databázovou tabulku";
@@ -69,9 +69,9 @@ $l['notice_mb4_warning'] = "Podpora 4-Byte UTF-8 vyžaduje MySQL 5.5.3 a vyšš�
 $l['check_templates'] = "Zkontrolovat šablony";
 $l['check_templates_desc'] = "Zkontroluje všechny nainstalované vzhledy pro známé bezpečnostní problémy.";
 $l['check_templates_title'] = "Kontrola zabezpečení šablony";
-$l['check_templates_info'] = "Tento proces zkontroluje všechny šablony proti bezpečnostním problémům, které by mohly ovlivnit fórum a server, na kterém běží fórum. Pokud máš nainstalovaných mnoho vzhledů, tak tento proces bude chvíli trvat.
+$l['check_templates_info'] = "Tento proces zkontroluje všechny šablony na známé bezpečnostní problémy, které by mohly ovlivnit fórum a server, na kterém běží. Pokud máte nainstalováno mnoho vzhledů, může tento proces chvíli trvat.<br /><br />Pro zahájení kontroly klikněte na tlačítko 'Pokračovat'.";
 <br /><br />Pro zahájení kontroly stiskni tlačítko 'Pokračovat'.";
-$l['check_templates_info_desc'] = "Níže uvedené šablony odpovídají známým bezpečnostním problémům. Prosím, zkontroluj je.";
+$l['check_templates_info_desc'] = "Níže uvedené šablony odpovídají známým bezpečnostním problémům. Prosím, zkontrolujte je.";
 $l['full_edit'] = "Full Edit";
 
 $l['error_chmod'] = "Požadované soubory a adresáře nemají správné nastavení CHMOD.";
@@ -80,7 +80,7 @@ $l['error_db_encoding_not_set'] = "Aktuální nastavení MyBB není uzpůsobené
 $l['error_not_supported'] = "Současná databáze nepodporuje nástroj na převod UTF-8.";
 $l['error_invalid_input'] = "Při kontrole šablon došlo k potížím. Zkuste to, prosím, znovu nebo se obraťte na skupinu MyBB.";
 $l['error_master_templates_altered'] = "Hlavní šablony byly změněny. V případě potíží se obraťte na skupinu MyBB.";
-$l['error_utf8mb4_version'] = "Tvoje MySQL verze nepodporuje 4-Byte UTF-8 kódování.";
+$l['error_utf8mb4_version'] = "Vaše verze MySQL nepodporuje 4bajtové kódování UTF-8.";
 
 
 $l['warning_multiple_encodings'] = "Nedoporučuje se používat různá kodování v jedné databázi, protože to může způsobit neočekávané chování nebo chyby v MySQL.";

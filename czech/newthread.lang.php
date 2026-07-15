@@ -44,7 +44,7 @@ $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newthread'] = "Vaše téma bylo založeno.";
 $l['redirect_newthread_poll'] = "<br />Nyní budete přesměrováni na stránku nastavení ankety.";
-$l['redirect_newthread_moderation'] = "<br />Administrátor(ka) určil(a), že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
+$l['redirect_newthread_moderation'] = "<br />Administrátor určil, že všechna nová témata musí být schválena moderátorem. Nyní budete přesměrováni do seznamu témat.";
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
 $l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
 
@@ -56,3 +56,4 @@ $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěv
 Datum zákazu: {2}";
 $l['error_suspendedposting_temporal'] = "do {1}";
 $l['error_suspendedposting_permanent'] = "navždy";
+$l['redirect_newthread_unviewable'] = "<br />Nemáte oprávnění k prohlížení témat v tomto fóru. Nyní budete přesměrováni zpět do fóra.";

@@ -77,7 +77,7 @@ $l['desc'] = "sestupně";
 $l['forum_announcements'] = "Oznámení fóra";
 $l['sticky_threads'] = "Důležitá témata";
 $l['normal_threads'] = "Běžná témata";
-$l['icon_dot'] = "Obsahující vaše příspěvky. "; // The spaces for the icon labels are strategically placed so that there should be no extra space at the beginning or end of the resulting label and that spaces separate each 'status' ;)
+$l['icon_dot'] = "Obsahující Vaše příspěvky. ";
 $l['icon_no_new'] = "Bez nových příspěvků.";
 $l['icon_new'] = "Nové příspěvky.";
 $l['icon_hot'] = " Nejčtenější téma.";
@@ -99,3 +99,8 @@ $l['clear_selection'] = "Zrušit výběr.";
 $l['error_containsnoforums'] = "Fórum, které si právě prohlížíte, neobsahuje žádná vnořená fóra.";
 
 $l['inline_edit_description'] = '(Pro editaci kliknout a držet)';
+$l['nopermission'] = "Je nám líto, ale nemáte oprávnění k prohlížení témat v tomto fóru.";
+$l['deleted_thread'] = "Smazané téma";
+$l['select_a_tool'] = "Vyberte nástroj";
+$l['inline_no_tool_selected'] = "Vyberte prosím nástroj pro provedení moderátorského zásahu.";
+$l['inline_no_post_selected'] = "Pro provedení moderátorského zásahu musíte vybrat jeden nebo více příspěvků.";

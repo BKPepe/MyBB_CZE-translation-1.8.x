@@ -71,7 +71,6 @@ $l['success_task_deleted'] = "Vybraná úloha byla úspěšně vymazána.";
 $l['success_task_enabled'] = "Vybraná úloha byla úspěšně povolena.";
 $l['success_task_disabled'] = "Vybraná úloha byla úspěšně zakázána.";
 $l['success_task_run'] = "Vybraná úloha se úspěšně spustila.";
-
-$l['confirm_task_deletion'] = "Jste si jistý, že opravdu chcete vymazat tuto naplánovanou úlohu?";
+$l['confirm_task_deletion'] = "Opravdu chcete smazat tuto naplánovanou úlohu?";
 $l['confirm_task_enable'] = "<strong>Upozornění:</strong> Nyní se chystáte spustit úlohu, která je určená primárně pro spuštění přes cron (Podívejte se, prosím, do <a href=\"https://docs.mybb.com/1.8/administration/task-manager\" target=\"_blank\">MyBB dokumentaci (v angličtině)</a> pro více informací. Pokračovat?";
 $l['no_tasks'] = "V tuto chvíli zde nejsou žádné naplánované úlohy.";

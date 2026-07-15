@@ -1,28 +1,46 @@
 [![MyBB](https://raw.githubusercontent.com/mybb/mybb/feature/images/logo.png "MyBB")](https://mybb.com "MyBB")
 
-# Čeština pro MyBB 1.8 
-(Czech official translation for [MyBB open source forum software - v1.8.X](https://mybb.com/))
+# Čeština pro MyBB 1.8.x
 
-## Informace:
-- oficiální jazykový balíček
-- plná kompatibilita vždy pro aktuální verzi MyBB
-- překlad včetně administrace (ACP) a uživatelské části
-- více informací + download nejnovější vydané verze na [MyBB Extend site](https://community.mybb.com/mods.php?action=view&pid=280)
+[![MyBB Version](https://img.shields.io/badge/MyBB-1.8.40-blue.svg)](https://mybb.com/)
+[![Language Pack Version](https://img.shields.io/badge/%C4%8Ce%C5%A1tina-1.8.40-green.svg)](https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x)
+[![License](https://img.shields.io/badge/licence-GPL%20v3-blue.svg)](LICENSE)
 
-# Instalace:
-- soubory zkopíruj do adresáře /inc/languages
-- nastavení češtiny pro panel administrace (backend): ACP -> Home -> Preferences -> Admin Control Panel Language -> Čeština
-- nastavení češtiny pro uživatele fóra (frontend): ACP -> Configuration -> General Configuration -> Default Language -> Čeština
+Oficiální a kompletní jazykový balíček češtiny pro open-source diskusní systém **[MyBB (v1.8.x)](https://mybb.com/)**.
 
-## Autoři překladu:
-- [Eldenroot](https://github.com/Eldenroot)
-- Stary
-- [uzbugg](https://github.com/uzbugg)
-- [Josef Schlehofer](https://github.com/bkpepe) - ACP
+## Hlavní vlastnosti:
+- **Kompletní překlad**: Zahrnuje jak uživatelskou část (frontend), tak kompletní administrační panel (ACP).
+- **Aktuální kompatibilita**: Pravidelně aktualizováno a testováno pro nejnovější verze diskusního fóra MyBB.
 
-## Kontakt
-Narazil si na nějaký nedostatek? Máš nějaký návrh, připomínku nebo dotaz? Napiš nám prosím do vlákna na fóru MyBB nebo vytvoř tiket s problémem přímo zde [GitHub issue trackeru](https://github.com/Cu8eeeR/MyBB_CZE-translation-1.8.x/issues)
+---
 
-Budeme rádi, když nám pomůžeš zdokonalit náš překlad. :-)
+## Instalace:
 
-Děkujeme!
+1. Stáhněte si nejnovější verzi jazykového balíčku.
+2. Nahrajte obsah složky `czech` a soubor `czech.php` do adresáře `/inc/languages/` na Vašem serveru.
+3. **Aktivace v administraci (pro administrátory)**:
+   - Přejděte do `ACP` -> `Home` -> `Preferences` -> `Admin Control Panel Language` -> vyberte **Čeština**.
+4. **Aktivace pro celé fórum (výchozí jazyk)**:
+   - Přejděte do `ACP` -> `Configuration` -> `General Configuration` -> `Default Language` -> vyberte **Čeština**.
+
+---
+
+## Autoři a přispěvatelé:
+- **[Eldenroot](https://github.com/Eldenroot)**
+- **Stary**
+- **[uzbugg](https://github.com/uzbugg)**
+- **[Josef Schlehofer (Pepe)](https://github.com/bkpepe)**
+
+---
+
+## Podpora a hlášení chyb
+
+Narazili jste na nějakou chybu, překlep nebo máte návrh na zlepšení překladu? 
+
+Napište nám prosím do příslušného vlákna na diskusním fóru MyBB, nebo otevřete nový ticket přímo zde na **[GitHub Issue Trackeru](https://github.com/Eldenroot/MyBB_CZE-translation-1.8.x/issues)**. 
+
+Každá pomoc s vylepšením překladu je vítána!
+
+---
+
+*Děkujeme, že pomáháte udržovat češtinu pro MyBB aktuální a kvalitní!*

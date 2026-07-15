@@ -31,12 +31,12 @@ $l['save_post_icons'] = "Uložit ikonu příspěvku.";
 
 $l['no_post_icons'] = "Na fóru se momentálně nenachází žádné ikony příspěvků.";
 
-$l['error_missing_name'] = "Nezadal(a) jste název ikony příspěvků";
-$l['error_missing_path'] = "Nezadal(a) jste cestu k ikoně příspěvků";
-$l['error_missing_path_multiple'] = "Nezadal(a) jste cestu.";
-$l['error_invalid_path'] = "Nezadal(a) jste správnou cestu.";
+$l['error_missing_name'] = "Nezadali jste název ikony příspěvků";
+$l['error_missing_path'] = "Nezadali jste cestu k ikoně příspěvků";
+$l['error_missing_path_multiple'] = "Nezadali jste cestu.";
+$l['error_invalid_path'] = "Nezadali jste správnou cestu.";
 $l['error_no_images'] = "V adresáři se nenachází ikona příspěvku, nebo všechny ikony z adresáře byly již přidány.";
-$l['error_none_included'] = "Nevybral(a) jste žádnou ikonu.";
+$l['error_none_included'] = "Nevybrali jste žádnou ikonu.";
 $l['error_invalid_post_icon'] = "Tato ikona zřejmě neexistuje.";
 
 $l['success_post_icon_added'] = "Ikona příspěvku byla úspěšně přidána.";

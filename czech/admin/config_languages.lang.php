@@ -62,4 +62,5 @@ $l['issues'] = "Problémy";
 $l['phrases'] = "Fráze";
 $l['issues_ok'] = "Zdá se, že je vše v pořádku.";
 $l['issues_nothingtocompare'] = "Nic k porovnání";
-$l['issues_warning'] = "Tento soubor může vyžadovat vaši pozornost. \nProsím, zkontrolujte jej.";
+$l['issues_warning'] = "Tento soubor může vyžadovat Vaši pozornost. 
+Prosím, zkontrolujte jej.";

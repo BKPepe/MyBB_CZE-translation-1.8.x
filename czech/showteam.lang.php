@@ -26,3 +26,4 @@ $l['no_members'] = "V této skupině nejsou žádní členové";
 
 $l['showteam_disabled'] = "Administrátor zakázal možnost zobrazení týmu fóra.";
 $l['error_noteamstoshow'] = "Fórum nemá žádné správce";
+$l['away'] = "Nepřítomen";

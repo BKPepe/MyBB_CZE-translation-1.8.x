@@ -72,5 +72,4 @@ $l['error_invalid_fid'] = "Zvolené pole neexistuje.";
 $l['success_profile_field_added'] = "Vlastní pole profilu bylo úspěšně vytvořeno.";
 $l['success_profile_field_saved'] = "Vlastní pole profilu bylo úspěšně změněno.";
 $l['success_profile_field_deleted'] = "Zvolené vlastní pole profilu bylo úspěšně smazáno.";
-
-$l['confirm_profile_field_deletion'] = "Jste si jistý, že chcete smazat profilové pole?";
+$l['confirm_profile_field_deletion'] = "Opravdu chcete smazat toto profilové pole?";

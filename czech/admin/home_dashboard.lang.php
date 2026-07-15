@@ -18,7 +18,7 @@ $l['new_today'] = "Dnes založená";
 $l['unapproved'] = "Neschválená";
 $l['php_version'] = "PHP verze";
 $l['posts'] = "Příspěvky";
-$l['sql_engine'] = "SQL Engine";
+$l['sql_engine'] = "SQL databázový stroj";
 $l['users'] = "Uživatelé";
 $l['registered_users'] = "Registrovaní uživatelé";
 $l['active_users'] = "Aktivní uživatelé";
@@ -54,3 +54,4 @@ $l['admin_notes'] = "Administrátorské poznámky";
 $l['save_notes'] = "Uložit poznámky";
 
 $l['success_notes_updated'] = "Administrátorské poznámky byly úspěšně aktualizovány.";
+$l['server_software'] = "Serverový software";

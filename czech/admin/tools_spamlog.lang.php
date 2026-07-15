@@ -33,3 +33,4 @@ $l['in'] = "v";
 $l['order'] = "pořadí";
 $l['sort_by'] = "Seřazeno podle";
 $l['results_per_page'] = "Výsledky na stránku";
+$l['older_than'] = "Starší než ";

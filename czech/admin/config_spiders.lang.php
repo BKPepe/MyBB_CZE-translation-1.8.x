@@ -32,8 +32,8 @@ $l['save_bot'] = "Uložit bota";
 $l['use_board_default'] = "Použít výchozí nástěnku";
 
 $l['error_invalid_bot'] = "Vybraný bot neexistuje.";
-$l['error_missing_name'] = "Nezadal(a) jste název tohoto bota";
-$l['error_missing_agent'] = "Nezadal(a) jste žádný řetězec pro tohoto bota";
+$l['error_missing_name'] = "Nezadali jste název tohoto bota";
+$l['error_missing_agent'] = "Nezadali jste žádný řetězec pro tohoto bota";
 
 $l['success_bot_created'] = "Bot byl úspěšně vytvořen.";
 $l['success_bot_updated'] = "Bot byl úspěšně upraven.";

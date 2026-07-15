@@ -19,7 +19,7 @@ $l['bad_word_max'] = "Zakázané slovo nemůže být delší než 100 znaků.";
 $l['replacement'] = "Nahrazeno";
 $l['replacement_desc'] = "Zadejte řetězec, který nahradí filtrované slovo (pokud je pole prázdné, zobrazí se hvězdičky).";
 $l['regex'] = "Regulární výraz";
-$l['regex_desc'] = "Treat the \"Word\" field as a regular expression.";
+$l['regex_desc'] = "Považovat pole \"Slovo\" za regulární výraz.";
 $l['replacement_word_max'] = "Nahrazené slovo nemůže být delší než 100 znaků.";
 $l['error_replacement_word_invalid'] = "Slovo, které chcete nahradit nemůže být zároveň tím stejným slovem, které nemohou uživatelé použít.";
 
@@ -27,12 +27,13 @@ $l['save_bad_word'] = "Uložit filtr";
 $l['no_bad_words'] = "V tuto chvíli zde nejsou žádná slova, která mají být nahrazena.";
 $l['add_bad_word'] = "Přidat filtr";
 
-$l['error_missing_bad_word'] = "Nezadal(a) jste slovo, které má být nahrazeno.";
+$l['error_missing_bad_word'] = "Nezadali jste slovo, které má být nahrazeno.";
 $l['error_invalid_bid'] = "Zvolený filtr neexistuje.";
 $l['error_bad_word_filtered'] = "Filtr, který jste zadal, již existuje.";
 
 $l['success_added_bad_word'] = "Filtr byl úspěšně přidán.";
 $l['success_deleted_bad_word'] = "Filtr byl úspěšně vymazán.";
 $l['success_updated_bad_word'] = "Filtr byl úspěšně upraven.";
-
-$l['confirm_bad_word_deletion'] = "Jste si jistý, že chcete smazat tento filtr?";
+$l['confirm_bad_word_deletion'] = "Opravdu chcete smazat tento filtr?";
+$l['add_bad_word_desc'] = "Zde můžete přidat filtr slov a jeho náhradu.";
+$l['error_invalid_regex'] = "Zadaný regulární výraz je neplatný.";

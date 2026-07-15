@@ -39,5 +39,5 @@ $l['success_question_updated'] = "Otázka byla úspěšně upravena.";
 $l['success_question_disabled'] = "Otázka byla úspěšně zakázána.";
 $l['success_question_enabled'] = "Otázka byla úspěšně povolena.";
 $l['success_question_deleted'] = "Otázka byla úspěšně vymazána.";
-
-$l['confirm_question_deletion'] = "Jste si jistý, že chcete smazat tuto otázku?";
+$l['confirm_question_deletion'] = "Opravdu chcete smazat tuto otázku?";
+$l['preview_question'] = "Náhled otázky";

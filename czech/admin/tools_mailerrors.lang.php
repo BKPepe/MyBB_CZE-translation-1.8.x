@@ -30,3 +30,4 @@ $l['error_message_contains'] = "Chybová zpráva obsahuje";
 $l['to_address_contains'] = "Na adresu obsahující";
 $l['from_address_contains'] = "Z adresy obsahující";
 $l['find_emails_to_addr'] = "Najít všechny zaslané e-maily této e-mailové adrese";
+$l['find'] = "Najít";

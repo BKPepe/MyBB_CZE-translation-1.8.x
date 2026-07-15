@@ -28,3 +28,4 @@ $l['thread_closed'] = "Téma je uzavřeno";
 $l['thread_opened'] = "Téma je otevřeno";
 $l['thread_stuck'] = "Téma je přilepeno";
 $l['thread_unstuck'] = "Téma je odlepeno";
+$l['postdata_username_exists'] = 'Zadané uživatelské jméno již existuje. Zadejte prosím jiné uživatelské jméno.';

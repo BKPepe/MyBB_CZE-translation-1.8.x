@@ -13,8 +13,7 @@ $l['nav_dayview'] = "Denní přehled";
 $l['nav_addevent'] = "Přidat událost";
 $l['nav_editevent'] = "Upravit událost";
 $l['nav_move_event'] = "Přesunout událost";
-
-$l['calendar_disabled'] = "Nemůžete používat kalendář, protože ho administrátor(ka) zakázal(a).";
+$l['calendar_disabled'] = "Nemůžete používat kalendář, protože ho administrátor zakázal.";
 
 // In some languages these months need to be slightly different than those defined in global.lang.php
 $l['alt_month_1'] = "Leden";
@@ -135,11 +134,12 @@ $l['finishes'] = "Končí: ";
 
 $l['error_incorrectday'] = "Zadaný den neexistuje. Vraťte se, prosím, zkuste to znovu.";
 $l['error_invalidevent'] = "Zadaná událost neexistuje.";
-$l['invalid_calendar'] = "Zadaný kalendář neexistuje. Jste si jistý, že jste jej správně zadali?";
-$l['redirect_eventdeleted'] = "Událost byla úspěšně odstraněna.<br />Nyní budete přesměrován(a) zpět do kalendáře.";
+$l['invalid_calendar'] = "Zadaný kalendář neexistuje. Zadali jste jeho název správně?";
+$l['redirect_eventdeleted'] = "Událost byla úspěšně odstraněna.<br />Nyní budete přesměrováni zpět do kalendáře.";
 $l['redirect_eventupdated'] = "Událost byla úspěšně aktualizována.<br />Budete na ni přesměrováni.";
 $l['redirect_eventadded'] = "Vaše událost byla úspěšna přidána.<br />Budete na ni přesměrováni.";
 $l['redirect_eventadded_moderation'] = "Vaše událost byla úspěšna přidána, avšak před zveřejněním musí být ještě schválena moderátorem.<br />Nyní budete přesměrováni zpět do kalendáře.";
 $l['redirect_eventunapproved'] = "Událost byla úspěšně zamítnuta.<br />Budete na ni přesměrováni.";
 $l['redirect_eventapproved'] = "Událost byla úspěšně schválena.<br />Budete na ni přesměrováni.";
 $l['redirect_eventmoved'] = "Událost byla úspěšně přesunuta.<br />Budete na ni přesměrováni.";
+$l['delete_no_checkbox'] = "Událost nebyla smazána, protože jste nezaškrtli políčko \"Smazat\".";

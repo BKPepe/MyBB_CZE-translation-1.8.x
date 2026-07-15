@@ -15,7 +15,7 @@ $l['preview_announcement'] = "Náhled oznámení";
 $l['update_announcement_desc'] = "Zde můžete upravit detaily oznámení.";
 
 $l['start_date_desc'] = "V tento den a hodinu (v GMT), se oznámení na fóru objeví.";
-$l['end_date_desc'] = "V tento den a hodinu (v GMT), bude oznámení na vašem fóru skryto. Můžete vybrat také možnost, že oznámení nebude skryto nikdy";
+$l['end_date_desc'] = "V tento den a hodinu (v GMT), bude oznámení na Vašem fóru skryto. Můžete vybrat také možnost, že oznámení nebude skryto nikdy";
 $l['forums_to_appear_in_desc'] = "Oznámení se zobrazí ve fórech vybraných níže. Oznámení se objeví ve vybraném fóru a ve všech podřízených fórech vybraného fóra.";
 
 $l['announcement'] = "Oznámení";
@@ -31,10 +31,10 @@ $l['success_added_announcement'] = "Oznámení bylo úspěšně vytvořeno.";
 $l['success_updated_announcement'] = "Vybrané oznámení bylo úspěšně upraveno.";
 
 $l['error_invalid_announcement'] = "Prosím, vložte správné varování.";
-$l['error_missing_title'] = "Nezadal(a) jste název.";
-$l['error_missing_message'] = "Nezadal(a) jste zprávu.";
-$l['error_missing_forum'] = "Nevybral(a) jste fórum.";
-$l['error_invalid_start_date'] = "Zadal(a) jste neplatné datum oznámení.";
+$l['error_missing_title'] = "Nezadali jste název.";
+$l['error_missing_message'] = "Nezadali jste zprávu.";
+$l['error_missing_forum'] = "Nevybrali jste fórum.";
+$l['error_invalid_start_date'] = "Zadali jste neplatné datum oznámení.";
 $l['error_invalid_end_date'] = "Konec oznámení není správně nastaven.";
 $l['error_end_before_start'] = "Konec oznámení nesmí být dříve než jeho zveřejnění.";
 

@@ -26,13 +26,13 @@ $l['stick_thread'] = "<strong>Přilepit téma:</strong> toto téma bude přilepe
 $l['forum_rules'] = "{1} - Pravidla";
 $l['thread_review'] = "Náhled témat (nejdříve nové)";
 $l['thread_review_more'] = "Toto téma má více než {1} příspěvků. <a href=\"{2}\" target=\"_blank\">Přečíst celé téma.</a>";
-$l['posted_by'] = "Napsal(a)";
+$l['posted_by'] = "Napsal";
 $l['draft_saved'] = "Nový příspěvek byl úspěšně uložen do konceptů.<br />Nyní budete přesměrováni do seznamu konceptů.";
 $l['image_verification'] = "Obrázková verifikace";
 $l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Toto opatření má zabránit spam botům psát příspěvky.";
 $l['verification_subnote'] = "(necitlivé na velikost)";
 $l['invalid_captcha'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['error_post_already_submitted'] = "Tento příspěvek jste již do tohoto tématu odeslal(a). Podívejte se do tématu a uvidíte jej.";
+$l['error_post_already_submitted'] = "Tento příspěvek jste již do tohoto tématu odeslali. Podívejte se do tématu a uvidíte jej.";
 $l['multiquote_external_one'] = "Byl vybrán jeden příspěvek z jiného tématu.";
 $l['multiquote_external'] = "Bylo vybráno {1} příspěvků z jiných témat.";
 $l['multiquote_external_one_deselect'] = "zrušit výběr příspěvku";
@@ -41,9 +41,9 @@ $l['multiquote_external_one_quote'] = "Citovat i tento příspěvek";
 $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newreply'] = "Váš příspěvek byl úspěšně odeslán.";
-$l['redirect_newreply_moderation'] = "Administrátor(ka) určil(a), že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrován(a) do seznamu témat.";
+$l['redirect_newreply_moderation'] = "Administrátor určil, že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrováni do seznamu témat.";
 $l['redirect_newreply_post'] = "<br />Nyní budete přesměrováni na Váš příspěvek.";
-$l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrován(a) do tématu.";
+$l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrováni do tématu.";
 $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protože bylo moderátorem uzavřeno.";
 $l['error_post_noperms'] = "Nemáte dostatečná oprávnění k úpravě tohoto konceptu.";
 

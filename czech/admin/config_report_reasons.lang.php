@@ -53,13 +53,13 @@ $l['update_reasons_order'] = "Aktualizovat pořadí důvodů.";
 
 $l['error_cannot_modify_reason'] = "Nemůžete upravit tento důvod.";
 $l['error_cannot_delete_reason'] = "Nemůžete smazat tento důvod.";
-$l['error_invalid_reason'] = "Vybral(a) jste neplatný (nesprávný?) důvod.";
-$l['error_missing_title'] = "Nezadal(a) jste název pro tento důvod.";
-$l['error_missing_extra'] = "Nevybral(a) jste možnost, jestli chcete uživatelský komentář pro tento důvod.";
+$l['error_invalid_reason'] = "Vybrali jste neplatný (nesprávný?) důvod.";
+$l['error_missing_title'] = "Nezadali jste název pro tento důvod.";
+$l['error_missing_extra'] = "Nevybrali jste možnost, jestli chcete uživatelský komentář pro tento důvod.";
 
 $l['success_reasons_disporder_updated'] = "Pořadí důvodů pro nahlášení příspěvku bylo úspěšně aktualizováno.";
 $l['success_reason_created'] = "Důvod byl úspěšně vytvořen.";
 $l['success_reason_updated'] = "Důvod byl úspěšně upraven.";
 $l['success_reason_deleted'] = "Důvod byl úspěšně vymazaný.";
-
-$l['confirm_reason_deletion'] = "Jste si jistý, že chcete smazat tento důvod?";
+$l['confirm_reason_deletion'] = "Opravdu chcete smazat tento důvod?";
+$l['error_missing_applies_to'] = "Nevybrali jste, na jaký obsah se tento důvod vztahuje.";
