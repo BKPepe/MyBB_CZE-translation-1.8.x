@@ -135,12 +135,12 @@ $l['invisible_mode_desc'] = "Zvolíte-li ano, nebudete na seznamu přihlášený
 $l['messaging_notification'] = "Zprávy a oznámení";
 $l['allow_notices'] = "Dostávat zprávy od administrátorů.";
 $l['allow_notices_desc'] = "Zvolíte-li ano, povolujete administrátorům zasílat vám zprávy a oznámení.";
-$l['allow_emails'] = "Skrýt e-mail před ostatními členy fóra.";
-$l['allow_emails_desc'] = "Zvolíte-li ano, mohou vám ostatní členové fóra posílat přes toto fórum e-maily.";
+$l['allow_emails'] = "Skrýt e-mail před ostatními uživateli.";
+$l['allow_emails_desc'] = "Zvolíte-li ano, mohou vám ostatní uživatelé posílat přes toto fórum e-maily.";
 $l['email_notify'] = "Automaticky odebírat témata, ve kterých máte příspěvek.";
 $l['email_notify_desc'] = "Zvolíte-li ano, budete po odeslání příspěvku automaticky odebírat téma.";
 $l['receive_pms'] = "Dostávat od ostatních uživatelů soukromé zprávy.";
-$l['receive_pms_desc'] = "Tato volba vám umožňuje posílat a dostávat soukromé zprávy od ostatních členů fóra.";
+$l['receive_pms_desc'] = "Tato volba vám umožňuje posílat a dostávat soukromé zprávy od ostatních uživatelů.";
 $l['receive_from_buddy'] = "Přijímat soukromé zprávy pouze od uživatelů na mém <a href=\"#\" onclick=\"MyBB.popupWindow('/misc.php?action=buddypopup'); return false;\" target=\"_blank\">Seznamu přátel</a>. (Toto nastavení nebude mít žádný efekt, jestliže není v seznamu alespoň jeden přítel.)";
 $l['pm_notice'] = "Při příchodu nové soukromé zprávy mě informovat vyskakovacím oknem.";
 $l['pm_notify'] = "Při příchodu nové soukromé zprávy mě informovat e-mailem.";

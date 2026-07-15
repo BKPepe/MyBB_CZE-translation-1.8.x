@@ -12,12 +12,12 @@ $l['d1_name'] = "Registrace uživatele";
 $l['d1_desc'] = "Výhody registrace.";
 $l['d1_document'] = "Kterákoliv část tohoto fóra, nebo celé fórum může vyžadovat registraci a přihlášení uživatelů. Registrace je zdarma a zabere pouze několik minut.
 <br /><br />Doporučujeme, abyste se zaregistrovali. Poté můžete psát příspěvky, udržovat a upravovat vlastní uživatelský profil a mnoho dalších věcí.
-<br /><br />Registrace je potřebná pro automatické odebírání příspěvků, práci s oblíbenými položkami, změnu stylů, přístup do osobních poznámek a pro psaní soukromých zpráv dalším členům fóra.";
+<br /><br />Registrace je potřebná pro automatické odebírání příspěvků, práci s oblíbenými položkami, změnu stylů, přístup do osobních poznámek a pro psaní soukromých zpráv dalším uživatelům fóra.";
 
 // Help Document 2
 $l['d2_name'] = "Aktualizace profilu uživatele";
 $l['d2_desc'] = "Změna aktuálních údajů uživatele.";
-$l['d2_document'] = "Během vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
+$l['d2_document'] = "Během vašeho působení na fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";

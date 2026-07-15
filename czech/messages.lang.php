@@ -440,9 +440,9 @@ Vedení fóra {3}
 {4}
 
 ------------------------------------------
-Nechcete dostávat od ostatních členů e-maily?
+Nechcete dostávat od ostatních uživatelů e-maily?
 
-Pokud nechcete, aby vám ostatní členové mohli posílat e-maily, přejděte do svého nastavení uživatele a tam si nastavte 'Skrýt e-mailovou adresu před ostatními uživateli':
+Pokud nechcete, aby vám ostatní uživatelé mohli posílat e-maily, přejděte do svého nastavení uživatele a tam si nastavte 'Skrýt e-mailovou adresu před ostatními uživateli':
 {4}/usercp.php?action=options
 
 ------------------------------------------";

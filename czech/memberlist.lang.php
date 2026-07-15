@@ -11,10 +11,10 @@ $l['nav_memberlist'] = "Seznam uživatelů";
 
 $l['memberlist_disabled'] = "Seznamu uživatelů je zakázán administrátorem.";
 
-$l['member_list'] = "Seznam členů";
+$l['member_list'] = "Seznam uživatelů";
 $l['avatar'] = "Avatar";
 $l['username'] = "Uživatelské jméno";
-$l['joined'] = "Členství od";
+$l['joined'] = "Registrován";
 $l['lastvisit'] = "Poslední návštěva";
 $l['posts'] = "Příspěvků";
 $l['threads'] = "Témat";
