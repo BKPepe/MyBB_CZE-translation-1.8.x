@@ -8,11 +8,11 @@
  */
 
 $l['recount_rebuild'] = "Přepočítat &amp; znovu vytvořit";
-$l['recount_rebuild_desc'] = "Zde můžete přepočítat &amp; znovu vytvořit data a opravit všechny chyby synchronizace Vašeho fóra.";
+$l['recount_rebuild_desc'] = "Zde můžete přepočítat &amp; znovu vytvořit data a opravit všechny chyby synchronizace vašeho fóra.";
 
 $l['data_per_page'] = "Dat na stránku";
 $l['recount_stats'] = "Přepočítat statistiky";
-$l['recount_stats_desc'] = "Přepočítá a aktualizuje statistiky Vašeho fóra na hlavní stránce a na stránce se statistikami.";
+$l['recount_stats_desc'] = "Přepočítá a aktualizuje statistiky vašeho fóra na hlavní stránce a na stránce se statistikami.";
 $l['recount_reputation'] = "Přepočítat reputaci";
 $l['recount_reputation_desc'] = "Přepočítá reputaci každého uživatele.";
 $l['recount_warning'] = "Přepočítat varování";

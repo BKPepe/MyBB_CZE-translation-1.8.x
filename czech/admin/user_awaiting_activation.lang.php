@@ -8,7 +8,7 @@
  */
 
 $l['awaiting_activation'] = "Čekající na aktivaci";
-$l['awaiting_activation_desc'] = "Zde můžete ručně aktivovat uživatele, kteří čekající na aktivaci. Pokud uživatel nepotvrdil e-mailovou aktivaci a Vy ho aktivujete, tak nemusí potvrzovat e-mail, který uživateli přišel.";
+$l['awaiting_activation_desc'] = "Zde můžete ručně aktivovat uživatele, kteří čekající na aktivaci. Pokud uživatel nepotvrdil e-mailovou aktivaci a vy ho aktivujete, tak nemusí potvrzovat e-mail, který uživateli přišel.";
 
 $l['manage_awaiting_activation'] = "Spravovat uživatele čekající na aktivaci";
 
@@ -39,7 +39,7 @@ $l['success_users_activated'] = "Vybraný uživatel byl aktivován.";
 $l['emailsubject_activateaccount'] = "Aktivace uživatele na fóru {1}";
 $l['email_adminactivateaccount'] = "{1},
 
-Administrátor aktivoval Váš účet na fóru - {2}.
+Administrátor aktivoval váš účet na fóru - {2}.
 
 Pokračujte, prosím, na
 
@@ -47,5 +47,5 @@ Pokračujte, prosím, na
 
 Kde se budete moct přihlásit pomocí přezdívky a hesla, které jste si zvolili při registraci.
 
-Budeme se těšit na Vaši návštěvu
+Budeme se těšit na vaši návštěvu
 Vedení fóra {2}";

@@ -8,7 +8,7 @@
  */
 
 $l['thread_prefixes'] = "Předpona tématu";
-$l['thread_prefixes_desc'] = "Předpony vláken umožňují definovat předpony, které mohou uživatelé přiřadit ke svým vláknům. Vlákna pak lze filtrovat podle prefixu v rámci fóra.";
+$l['thread_prefixes_desc'] = "Předpony témat umožňují definovat předpony, které mohou uživatelé přiřadit ke svým tématům. Témata pak lze filtrovat podle prefixu v rámci fóra.";
 
 $l['add_new_thread_prefix'] = "Přidat novou předponu tématu";
 $l['add_new_thread_prefix_desc'] = "Zde můžete přidat novou předponu tématu a definice, kam se předpona hodí, stejně tak která skupina uživatelů ji může využívat.";
@@ -27,9 +27,9 @@ $l['display_style'] = "Styl zobrazení";
 $l['display_style_desc'] = "Takto se bude předpona před názvem zobrazovat. Můžete sem zadat HTML tag pro jendoduché přidělení předpony.";
 $l['available_in_forums'] = "Dostupné ve fóru";
 $l['available_to_groups'] = "Dostupné ve skupinách";
-$l['no_thread_prefixes'] = "Na Vašem fóru nejsou nastaveny žádné předpony.";
+$l['no_thread_prefixes'] = "Na vašem fóru nejsou nastaveny žádné předpony.";
 
-$l['confirm_thread_prefix_deletion'] = "Opravdu chcete odstranit tuto předponu vlákna?";
+$l['confirm_thread_prefix_deletion'] = "Opravdu chcete odstranit tuto předponu tématu?";
 
 $l['success_thread_prefix_created'] = "Předpona tématu byla úspěšně vytvořena.";
 $l['success_thread_prefix_updated'] = "Předpona tématu byla úspěšně upravena.";

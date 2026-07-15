@@ -53,8 +53,8 @@ $l['forum_rules'] = "{1} - pravidla";
 $l['error_invalid_limit'] = "Vámi zadaný počet položek není platný. Prosím, zadejte správný počet.";
 
 $l['syndication'] = "Odběr nejnovějších témat";
-$l['syndication_generated_url'] = "URL adresa pro Váš RSS odběr:";
-$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté Vám bude vytvořen odkaz, který si můžete zkopírovat do Vaší RSS čtečky. <i><a href=\"https://en.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Co je RSS?</a></i>";
+$l['syndication_generated_url'] = "URL adresa pro váš RSS odběr:";
+$l['syndication_note'] = "Níže můžete vytvořit odkazy na dané RSS kanály. Odkazy lze generovat pro všechna fóra, jedno fórum nebo vybraná fóra. Poté vám bude vytvořen odkaz, který si můžete zkopírovat do vaší RSS čtečky. <i><a href=\"https://en.wikipedia.org/wiki/RSS\" target=\"_blank\" rel=\"noopener\">Co je RSS?</a></i>";
 $l['syndication_forum'] = "Fórum k odběru:";
 $l['syndication_forum_desc'] = "Napravo si vyberte fórum. Pokud stisknete CTRL, můžete učinit mnohonásobný výběr.";
 $l['syndication_version'] = "Verze RSS:";

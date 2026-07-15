@@ -8,7 +8,7 @@
  */
 
 $l['system_email_log'] = "Historie systémových e-mailů";
-$l['system_email_log_desc'] = "E-maily, které byly vygenerovány MyBB a které se vrátily s chybou se zde zobrazí. Tato sekce je obzvláště určená pro identifikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na Vašem serveru.";
+$l['system_email_log_desc'] = "E-maily, které byly vygenerovány MyBB a které se vrátily s chybou se zde zobrazí. Tato sekce je obzvláště určená pro identifikování nesprávné konfigurace SMTP nebo k identifikování podpory e-mailů na vašem serveru.";
 $l['prune_system_email_log'] = "Promazat seznam systémových e-mailů";
 $l['filter_system_email_log'] = "Filtrovat seznam systémových e-mailů";
 
@@ -23,7 +23,6 @@ $l['date'] = "Datum";
 $l['email'] = "E-mail";
 $l['date_sent'] = "Datum odeslání";
 $l['error_message'] = "Chybová zpráva";
-$l['fine'] = "Najít";
 $l['no_logs'] = "Není zde žádný záznam s vybranými kritérii.";
 $l['subject_contains'] = "Předmět obsahuje";
 $l['error_message_contains'] = "Chybová zpráva obsahuje";

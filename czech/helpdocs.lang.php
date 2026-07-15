@@ -17,26 +17,26 @@ $l['d1_document'] = "Kterákoliv část tohoto fóra, nebo celé fórum může v
 // Help Document 2
 $l['d2_name'] = "Aktualizace profilu uživatele";
 $l['d2_desc'] = "Změna aktuálních údajů uživatele.";
-$l['d2_document'] = "Během Vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je Váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve Vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
+$l['d2_document'] = "Během vašeho členství ve fóru se občas může vyskytnout potřeba aktualizovat některé informace, jako je váš instant messenger, heslo, nebo e-mailová adresa. To vše lze nastavit a změnit ve vašem uživatelském panelu. Dostanete se do něj kliknutím na odkaz, který se nachází v levém horním rohu pod názvem \"Nastavení uživatele\". Pak si vyberte \"Editovat Profil\" a změňte, zaktualizujte dle vlastní úvahy jakékoliv položky. Pro potvrzení a uložení změn klikněte na tlačítko \"Aktualizovat profil\", které naleznete naspod.";
 
 // Help Document 3
 $l['d3_name'] = "Používání cookies v tomto fóru";
 $l['d3_desc'] = "Toto fórum používá cookies pro ukládání některých informací registrovaných uživatelů.";
 $l['d3_document'] = "Toto fórum využívá cookies pro ukládání informací o přihlášení registrovaných uživatelů nebo době poslední návštěvy neregistrovaných uživatelů.
-<br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do Vašeho zařízení. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
+<br /><br />Cookies jsou drobné textové dokumenty, které se ukládají do vašeho zařízení. Cookies z našeho fóra mohou být využity opět jenom v tomto fórum a nepředstavují žádné bezpečnostní riziko.
 <br /><br />Toto fórum využívá cookies i pro sledování konkrétních příspěvků, které uživatel četl a kdy je naposledy četl.
 <br /><br />Všechna cookies tohoto fóra můžete snadno odstranit tak, že kliknete <a href=\"misc.php?action=clearcookies&amp;my_post_key={1}\">zde</a>.";
 
 // Help Document 4
 $l['d4_name'] = "Přihlašování a odhlašování";
 $l['d4_desc'] = "Jak se přihlásit a odhlásit.";
-$l['d4_document'] = "Když se přihlásíte, nastavujete si zároveň na svém zařízení cookies, takže můžete číst jednotlivé sekce fóra bez neustálého zadávání svého uživatelského jména a hesla. Po odhlášení jsou cookies smazána, takže se nikdo nemůže v tomto fóru vydávat za Vás.
-<br /><br />Pro přihlášení klikněte na odkaz \"Přihlásit se\", který naleznete nahoře. Pro odhlášení klikněte na \"Odhlásit se\". Pokud se nemůžete odhlásit, odstraňte cookies pomocí příslušné funkce ve Vašem internetovém prohlížeči.";
+$l['d4_document'] = "Když se přihlásíte, nastavujete si zároveň na svém zařízení cookies, takže můžete číst jednotlivé sekce fóra bez neustálého zadávání svého uživatelského jména a hesla. Po odhlášení jsou cookies smazána, takže se nikdo nemůže v tomto fóru vydávat za vás.
+<br /><br />Pro přihlášení klikněte na odkaz \"Přihlásit se\", který naleznete nahoře. Pro odhlášení klikněte na \"Odhlásit se\". Pokud se nemůžete odhlásit, odstraňte cookies pomocí příslušné funkce ve vašem internetovém prohlížeči.";
 
 // Help Document 5
 $l['d5_name'] = "Založení nového tématu";
 $l['d5_desc'] = "Jak založit nové téma.";
-$l['d5_document'] = "Když procházíte fórum, které Vás zajímá, budete možná chtít založit nějaké nové téma. Stačí kliknout nahoře či naspod na tlačítko \"Nové téma\". Mějte na mysli, že k tomu nemusíte mít vždy oprávnění. Administrátor tohoto diskuzního fóra to v některých fórech umožňuje, v jiných ne.";
+$l['d5_document'] = "Když procházíte fórum, které vás zajímá, budete možná chtít založit nějaké nové téma. Stačí kliknout nahoře či naspod na tlačítko \"Nové téma\". Mějte na mysli, že k tomu nemusíte mít vždy oprávnění. Administrátor tohoto diskuzního fóra to v některých fórech umožňuje, v jiných ne.";
 
 // Help Document 6
 $l['d6_name'] = "Psaní příspěvků";
@@ -46,8 +46,8 @@ $l['d6_document'] = "Někdy narazíte na téma, ke kterému byste se také chtě
 
 // Help Document 7
 $l['d7_name'] = "MyCode - formátování příspěvků";
-$l['d7_desc'] = "Jak používat MyCode pro formátování Vašich příspěvků.";
-$l['d7_document'] = "Pro lepší vzhled Vašich příspěvků lze využít MyCode - zjednodušenou verzi hypertextového značkovacího jazyka HTML.
+$l['d7_desc'] = "Jak používat MyCode pro formátování vašich příspěvků.";
+$l['d7_document'] = "Pro lepší vzhled vašich příspěvků lze využít MyCode - zjednodušenou verzi hypertextového značkovacího jazyka HTML.
 <p><br />[b]Tento text je tučně.[/b]<br />&nbsp;&nbsp;&nbsp;<b>Tento text je tučně.</b>
 <p>[i]Tento text je kurzívou.[/i]<br />&nbsp;&nbsp;&nbsp;<i>Tento text je kurzívou.</i>
 <p>[u]Tento text je podtržený.[/u]<br />&nbsp;&nbsp;&nbsp;<u>Tento text je podtržený text.</u>

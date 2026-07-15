@@ -40,13 +40,13 @@ $l['poll_total'] = "Celkem:";
 $l['poll_votes'] = "hlasy(ů)";
 
 $l['redirect_pollposted'] = "Vaše anketa byla vytvořena.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_pollpostedmoderated'] = "Vaše anketa bylo založeno, ale Vaše téma stále čeká na schválení moderátorem.<br />Nyní budete přesměrováni do fóra.";
+$l['redirect_pollpostedmoderated'] = "Vaše anketa bylo založeno, ale vaše téma stále čeká na schválení moderátorem.<br />Nyní budete přesměrováni do fóra.";
 $l['redirect_pollupdated'] = "Anketa byla aktualizována.<br />Nyní budete přesměrováni do tématu.";
-$l['redirect_votethanks'] = "Děkujeme za Váš hlas.<br />Nyní budete přesměrováni do tématu.";
+$l['redirect_votethanks'] = "Děkujeme za váš hlas.<br />Nyní budete přesměrováni do tématu.";
 $l['redirect_unvoted'] = "Vaše hlasování v tomto tématu bylo odstraněno.<br />Nyní budete přesměrováni do tématu.";
 $l['redirect_polldeleted'] = "Anketa byla z tématu úspěšně odstraněna.<br />Nyní budete přesměrováni do tématu.";
 
-$l['error_polloptiontoolong'] = "Nejméně jedna z Vámi zadaných odpovědí v anketě přesáhla povolený limit. Vraťte se prosím a zkraťte ji.";
+$l['error_polloptiontoolong'] = "Nejméně jedna z vámi zadaných odpovědí v anketě přesáhla povolený limit. Vraťte se prosím a zkraťte ji.";
 $l['error_noquestionoptions'] = "Buď nebyla zadána otázka, nebo je příliš málo odpovědí (minimálně 2).<br />Vraťte se prosím a opravte to.";
 $l['error_pollalready'] = "Téma již obsahuje anketu!";
 $l['error_nopolloptions'] = "Zadaná možnost ankety neexistuje nebo je chybná.";

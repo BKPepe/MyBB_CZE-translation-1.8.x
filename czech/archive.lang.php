@@ -11,7 +11,7 @@ $l['archive_fullversion'] = "Úplná verze:";
 $l['archive_replies'] = "Odpovědí";
 $l['archive_reply'] = "Odpovědět";
 $l['archive_pages'] = "Stran:";
-$l['archive_note'] = "Prohlížíte si holou variantu Vašeho obsahu. <a href=\"{1}\">Prohlédněte si plnou verzi</a> s příslušným formátováním.";
+$l['archive_note'] = "Prohlížíte si holou variantu vašeho obsahu. <a href=\"{1}\">Prohlédněte si plnou verzi</a> s příslušným formátováním.";
 $l['archive_nopermission'] = "K tomuto zdroji nemáte příslušná přístupová oprávnění.";
 $l['error_nothreads'] = "V tomto fóru ještě nejsou žádná témata.";
 $l['error_unapproved_thread'] = "Toto téma není schváleno. Prosím, <a href=\"{1}\">zobrazte si plnou verzi</a> a podívejte se na jeho obsah.";

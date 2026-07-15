@@ -15,7 +15,7 @@ $l['date_range'] = "Časové období";
 
 $l['date'] = "Datum";
 $l['users'] = "Uživatelé";
-$l['threads'] = "Vlákna";
+$l['threads'] = "Témata";
 $l['posts'] = "Příspěvky";
 
 $l['from'] = "od";
@@ -25,4 +25,4 @@ $l['increase'] = "Zvýšit";
 $l['no_change'] = "Beze změny";
 $l['decrease'] = "Snížit";
 $l['error_no_results_found_for_criteria'] = "Nepodařilo se najít žádné výsledky pro vybrané časové období. Zkuste vybrat jiné časové období.";
-$l['error_no_statistics_available_yet'] = "Je nám líto, ale momentálně zde nejsou žádné dostupné statistiky pro Vaše fórum.";
+$l['error_no_statistics_available_yet'] = "Je nám líto, ale momentálně zde nejsou žádné dostupné statistiky pro vaše fórum.";

@@ -23,7 +23,7 @@ $l['moderator_tools'] = "Nástroje moderátorů";
 $l['spiders_bots'] = "Pavouci / Boti";
 $l['calendars'] = "Kalendář";
 $l['warning_system'] = "Systém upozornění";
-$l['thread_prefixes'] = "Předpona vlákna";
+$l['thread_prefixes'] = "Předpona témata";
 $l['security_questions'] = "Registrační otázky";
 $l['report_reasons'] = "Důvody nahlášení příspěvků";
 
@@ -42,6 +42,6 @@ $l['can_manage_spiders_bots'] = "Může upravovat spiders / bots?";
 $l['can_manage_calendars'] = "Může upravovat kalendář?";
 $l['can_manage_warning_system'] = "Může upravit systém napomenutí?";
 $l['can_manage_mod_tools'] = "Může spravovat nástroje moderátorů?";
-$l['can_manage_thread_prefixes'] = "Může upravovat předpony vlákna?";
+$l['can_manage_thread_prefixes'] = "Může upravovat předpony tématu?";
 $l['can_manage_security_questions'] = "Může upravit registrační otázky?";
 $l['can_manage_report_reasons'] = "Může spravovat důvody nahlášení příspěvků?";

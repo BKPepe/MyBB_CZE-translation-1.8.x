@@ -39,11 +39,11 @@ $l['warn_user_desc'] = "Zde můžete zvýšit úroveň varování tohoto uživat
 $l['send_pm'] = "Upozornit uživatele:";
 $l['send_user_warning_pm'] = "Poslat tomuto uživateli soukromou zprávu o udělení varování.";
 $l['send_pm_subject'] = "Předmět:";
-$l['warning_pm_subject'] = "Bylo Vám uděleno varování.";
+$l['warning_pm_subject'] = "Bylo vám uděleno varování.";
 $l['send_pm_message'] = "Zpráva:";
 $l['warning_pm_message'] = "{1},
 
-právě Vám bylo uděleno varování od vedení fóra {2}.
+právě vám bylo uděleno varování od vedení fóra {2}.
 --
 
 --";

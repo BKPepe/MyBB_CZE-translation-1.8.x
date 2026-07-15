@@ -8,7 +8,7 @@
  */
 
 $l['mod_logs'] = "Logy moderátorů";
-$l['mod_logs_desc'] = "Tady můžete prohlížet, mazat a prohledávat logy moderátorů. Tyto logy obsahují akce, které může provádět jakýkoliv uživatel (odstranení svých vlastních příspěvků/vláken) a všechny ostatní akce moderátorů.";
+$l['mod_logs_desc'] = "Tady můžete prohlížet, mazat a prohledávat logy moderátorů. Tyto logy obsahují akce, které může provádět jakýkoliv uživatel (odstranení svých vlastních příspěvků/témat) a všechny ostatní akce moderátorů.";
 $l['prune_mod_logs'] = "Vyčistit logy moderátorů";
 $l['prune_mod_logs_desc'] = "Zde můžete vyčistit logy moderátorů odpovídající zadaným kritériím.";
 
@@ -22,7 +22,7 @@ $l['information'] = "Informace";
 $l['ipaddress'] = "IP adresa";
 
 $l['forum'] = "Fórum:";
-$l['thread'] = "Vlákno:";
+$l['thread'] = "Téma:";
 $l['post'] = "Příspěvek:";
 $l['user_info'] = "Uživatel:";
 $l['announcement'] = "Oznámení:";
@@ -35,7 +35,7 @@ $l['all_moderators'] = "Všichni moderátoři";
 $l['older_than'] = "Starší než ";
 
 $l['forum_name'] = "Jméno fóra";
-$l['thread_subject'] = "Název vlákna";
+$l['thread_subject'] = "Název témata";
 
 $l['asc'] = "Vzestupně";
 $l['desc'] = "Sestupně";

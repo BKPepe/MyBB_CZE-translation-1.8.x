@@ -43,13 +43,9 @@ $l['begins_with'] = "začíná na";
 $l['username_contains'] = "obsahuje";
 $l['username_exact'] = "přesně";
 $l['search_website'] = "URL webu";
-$l['search_skype'] = "Skype kontakt";
-$l['search_google'] = "Google Hangouts kontakt";
-$l['search_icq'] = "ICQ číslo";
 $l['search_options'] = "Možnosti vyhledávání";
 $l['per_page'] = "Výsledků na stránku";
 $l['search'] = "Hledat";
-$l['search_user'] = "Hledat uživatele";
 
 $l['error_no_members'] = "<p>Nebyli nalezeni žádní uživatelé, odpovídající zadaným kritériím.</p><p>Zkuste to znovu s novými parametry.</p>";
 

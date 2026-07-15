@@ -9,15 +9,15 @@
 
 $l['mod_tools'] = "Nástroje moderátorů";
 
-$l['thread_tools'] = "Nástroje pro vlákna";
-$l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě Vašeho fóra. Zde můžete spravovat své vlastní nástroje.";
+$l['thread_tools'] = "Nástroje pro témata";
+$l['thread_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje.";
 
 $l['add_thread_tool'] = "Přidat nástroje témat";
 $l['add_new_thread_tool'] = "Přidat nový nástroj témat";
-$l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního vlákna. Tento nástroj bude přístupný z inline moderování vlákna, které jsou uvedeny s výchozími nástroji moderování.";
+$l['add_thread_tool_desc'] = "Zde můžete přidat nový nástroj moderování vlastního témata. Tento nástroj bude přístupný z inline moderování témata, které jsou uvedeny s výchozími nástroji moderování.";
 
 $l['post_tools'] = "Nástroje pro příspěvky";
-$l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě Vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
+$l['post_tools_desc'] = "Vlastní nástroje moderátora umožňují vytvářet kombinace akcí moderátora, které lze použít na témata i příspěvky. Ty pak mohou být použity jako výchozí nástroje při správě vašeho fóra. Zde můžete spravovat své vlastní nástroje pro příspěvky.";
 
 $l['add_post_tool'] = "Přidat nástroje příspěvků";
 $l['add_new_post_tool'] = "Přidat nový nástroj příspěvků";
@@ -72,15 +72,15 @@ $l['leave_redirect'] = "Opustit přesměrování?";
 $l['delete_redirect_after'] = "Smazat přesměrování po";
 $l['do_not_move_thread'] = "Nepřesouvat téma";
 $l['do_not_copy_thread'] = "Nekopírovat téma";
-$l['move_thread'] = "Přesunout vlákno?";
+$l['move_thread'] = "Přesunout téma?";
 $l['move_thread_desc'] = "Pokud přesunete téma, pole \"odstranit přesměrování po … dnech\" vyplníte pouze v případě, že bude povolené přesměrování.";
 $l['forum_to_copy_to'] = "Fórum se nakopíruje do:";
-$l['copy_thread'] = "Kopírovat vlákno?";
-$l['open_close_thread'] = "Otevřít/uzavřít vlákno?";
+$l['copy_thread'] = "Kopírovat téma?";
+$l['open_close_thread'] = "Otevřít/uzavřít téma?";
 $l['stick_unstick_thread'] = "Připnout/odepnout téma?";
 $l['softdelete_restore_thread'] = "Smazat/obnovit téma?";
 $l['delete_thread'] = "Smazat téma úplně?";
-$l['merge_thread'] = "Sloučit vlákna?";
+$l['merge_thread'] = "Sloučit témata?";
 $l['merge_thread_desc'] = "Pouze pokud používáte inline moderování.";
 $l['delete_poll'] = "Smazat anketu?";
 $l['delete_redirects'] = "Smazat přesměrování?";
@@ -123,7 +123,7 @@ $l['save_post_tool'] = "Uložit nástroje příspěvků";
 
 $l['send_private_message'] = 'Poslat soukromou zprávu';
 $l['private_message_message'] = 'Zpráva';
-$l['private_message_message_desc'] = 'Pošle zprávu autorovi vlákna. Zanechte prázdné pro vypnutí této funkce.';
+$l['private_message_message_desc'] = 'Pošle zprávu autorovi témata. Zanechte prázdné pro vypnutí této funkce.';
 $l['private_message_subject'] = 'Předmět';
 $l['private_message_subject_desc'] = 'Zadejte předmět soukromé zprávy.';
 $l['error_missing_title'] = "Zadejte prosím název pro tento nástroj.";

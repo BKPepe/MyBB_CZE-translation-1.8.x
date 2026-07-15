@@ -8,7 +8,7 @@
  */
 
 $l['dashboard'] = "Nástěnka";
-$l['dashboard_description'] = "V této sekci se dozvíte statistiky Vašeho fóra. Můžete zde také přidat poznámky pro ostatní administrátory.";
+$l['dashboard_description'] = "V této sekci se dozvíte statistiky vašeho fóra. Můžete zde také přidat poznámky pro ostatní administrátory.";
 
 $l['mybb_server_stats'] = "Informace o fóru, webovém a databázovém serveru";
 $l['forum_stats'] = "Statistiky fóra";
@@ -38,7 +38,7 @@ $l['latest_mybb_announcements'] = "Informace z blogu MyBB";
 $l['no_announcements'] = "Žádná oznámení. <a href=\"index.php?module=home&amp;action=version_check\">Zkontrolovat aktualizaci</a>.";
 $l['your_version'] = "Používáte verzi";
 $l['latest_version'] = "Nejnovější verze MyBB";
-$l['update_forum'] = "Aktualizujte, prosím, Vaše fórum na novější verzi <a href=\"https://mybb.com\" target=\"_blank\" rel=\"noopener\">MyBB (v angličtině)</a>. Předejdete problémům, které se mohou vyskytnout";
+$l['update_forum'] = "Aktualizujte, prosím, vaše fórum na novější verzi <a href=\"https://mybb.com\" target=\"_blank\" rel=\"noopener\">MyBB (v angličtině)</a>. Předejdete problémům, které se mohou vyskytnout";
 $l['read_more'] = "Přečíst více";
 
 $l['success_up_to_date'] = "Gratuluji! Používáte aktuální verzi MyBB.";

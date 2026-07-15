@@ -46,7 +46,6 @@ $l['group_public_invite'] = "K členství v této veřejné skupině je nutné, 
 $l['group_private'] = "Tato skupina je soukromá. Členy skupiny mohou být pouze ti uživatelé, které přidal vedoucí skupiny.";
 $l['group_default'] = "Tato skupina je hlavní skupinou tohoto fóra.";
 $l['group_leaders'] = "Vedoucí skupiny";
-$l['search_user'] = "Hledat uživatele";
 $l['no_users_selected'] = "Nejsou vybraní žádní uživatelé k odebrání z této skupiny.<br />Vraťte se a nějaké vyberte.";
 
 $l['error_alreadyingroup'] = "Daný uživatel je již členem této skupiny.";

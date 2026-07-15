@@ -8,7 +8,7 @@
  */
 
 $l['themes'] = "Vzhledy";
-$l['themes_desc'] = "V této části můžete spravovat vzhledy, které můžete vytvořit, případně naimportovat. Také si můžete přizpůsobit vzhledy pro Vaše fórum. Seznam vzhledů, které máte nainstalované najdete níže.";
+$l['themes_desc'] = "V této části můžete spravovat vzhledy, které můžete vytvořit, případně naimportovat. Také si můžete přizpůsobit vzhledy pro vaše fórum. Seznam vzhledů, které máte nainstalované najdete níže.";
 
 $l['create_new_theme'] = "Vytvořit nový vzhled";
 $l['create_new_theme_desc'] = "Zde můžete vytvořit skin, který bude založen na výchozím vzhledu MyBB.<strong>Template sets, stylesheets, and other settings are inherited from the parent theme.</strong>";
@@ -23,15 +23,15 @@ $l['add_stylesheet'] = "Přidat soubor stylů";
 $l['add_stylesheet_desc'] = "Zde můžete přidat nový styl tohoto motivu. Soubor stylů obsahuje CSS, který umožní přizpůsobit vzhled tohoto motivu.";
 
 $l['browse_themes'] = "Najít vzhled";
-$l['browse_themes_desc'] = "Zde můžete projít a případně stáhnout vzhled(y) z oficiální modifikační stránky MyBB, <strong>které jsou kompatibilní s Vaší verzí MyBB.</strong>";
+$l['browse_themes_desc'] = "Zde můžete projít a případně stáhnout vzhled(y) z oficiální modifikační stránky MyBB, <strong>které jsou kompatibilní s vaší verzí MyBB.</strong>";
 
 $l['browse_all_themes'] = "Najít všechny vzhledy i ty nekompatibilní. (Budete přesměrován na oficiální modifikační stránku MyBB.)";
 
 $l['export_theme'] = "Export vzhledu";
-$l['export_theme_desc'] = "Zde můžete exportovat Vaše motivy a přizpůsobené šablony. Exportování motivů je užitečné, pokud je chcete sdílet s ostatními nebo je importovat do jiného fóra.";
+$l['export_theme_desc'] = "Zde můžete exportovat vaše motivy a přizpůsobené šablony. Exportování motivů je užitečné, pokud je chcete sdílet s ostatními nebo je importovat do jiného fóra.";
 
 $l['duplicate_theme'] = "Duplikovat vzhled";
-$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To Vám pomůže, pokud chcete vyvíjet jinou verzi.";
+$l['duplicate_theme_desc'] = "Zde můžete duplikovat motivy. To vám pomůže, pokud chcete vyvíjet jinou verzi.";
 
 $l['colors_manage'] = "Upravit barvy";
 $l['colors_attached_to'] = "Nastavení barev:";
@@ -50,7 +50,7 @@ $l['include_templates'] = "Zahrnout také šablony do exportu?";
 $l['include_templates_desc'] = "Pokud chcete exportovat vlastní šablony použité v tomto motivu, vyberte Ano.";
 
 $l['edit_stylesheet_simple_mode'] = "Úprava stylů: Jednoduchý mód";
-$l['edit_stylesheet_simple_mode_desc'] = "Zde můžete snadno upravit styl Vašeho motivu. Jednoduchý režim umožňuje přizpůsobit CSS v tomto stylu s malou nebo žádnou znalostí CSS. Začněte výběrem položky níže.";
+$l['edit_stylesheet_simple_mode_desc'] = "Zde můžete snadno upravit styl vašeho motivu. Jednoduchý režim umožňuje přizpůsobit CSS v tomto stylu s malou nebo žádnou znalostí CSS. Začněte výběrem položky níže.";
 $l['edit_stylesheet_advanced_mode'] = "Úprava stylů: Pokročilý";
 $l['edit_stylesheet_advanced_mode_desc'] = "Zde můžete upravit soubor CSS. Obsah stylů CSS je zobrazen níže.";
 
@@ -150,7 +150,7 @@ $l['editing'] = "Upravuji";
 $l['selector'] = "Selektor";
 $l['save_changes'] = "Uložit změny";
 $l['save_changes_and_close'] = "Uložit změny & Zavřít";
-$l['save_changes_js'] = "Chcete nejdříve uložit Vaše změny?";
+$l['save_changes_js'] = "Chcete nejdříve uložit vaše změny?";
 $l['delete_confirm_js'] = "Opravdu chcete vše smazat?";
 $l['import_stylesheet_from'] = "Importovat do jiného stylu";
 $l['write_own'] = "Napsat vlastní obsah";

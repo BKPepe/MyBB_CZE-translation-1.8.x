@@ -10,8 +10,8 @@
 $l['system_health'] = "Stav fóra";
 $l['system_health_desc'] = "Zde můžete najít statistiky a informace o stavu fóra.";
 $l['utf8_conversion'] = "UTF-8 konverze";
-$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti Vašeho fóra a vybrané tabulky. Po dokončení budete přesměrováni na hlavní stránku konverze UTF-8.";
-$l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak Vám pomůže je převést na formát UTF-8.";
+$l['utf8_conversion_desc'] = "Nyní převádíte databázi na formát UTF-8. Tento proces může trvat až několik hodin v závislosti na velikosti vašeho fóra a vybrané tabulky. Po dokončení budete přesměrováni na hlavní stránku konverze UTF-8.";
+$l['utf8_conversion_desc2'] = "Tento nástroj zkontroluje, jestli všechny databázové tabulky jsou ve formátu UTF-8 a pokud nejsou, tak vám pomůže je převést na formát UTF-8.";
 
 $l['convert_all'] = "Převést vše";
 $l['converting_to_utf8'] = "MyBB převádí \"{1}\" tabulku na podporu UTF-8 z {2}.";

@@ -13,7 +13,7 @@ $l['post_reply_to'] = "Napsat odpověď na {1}";
 $l['post_new_reply'] = "Napsat novou odpověď";
 $l['reply_to'] = "Odpovědět k tématu: {1}";
 $l['post_subject'] = "Předmět příspěvku:";
-$l['your_message'] = "Text Vaší zprávy:";
+$l['your_message'] = "Text vaší zprávy:";
 $l['post_options'] = "Možnosti příspěvku:";
 $l['options_sig'] = "<strong>Podpis:</strong> vložit vlastní podpis (pouze pro registrované uživatele)";
 $l['options_emailnotify'] = "<strong>Oznámení e-mailem:</strong> dostávat oznámení o nových odpovědích e-mailem (pouze pro registrované uživatele)";
@@ -28,10 +28,6 @@ $l['thread_review'] = "Náhled témat (nejdříve nové)";
 $l['thread_review_more'] = "Toto téma má více než {1} příspěvků. <a href=\"{2}\" target=\"_blank\">Přečíst celé téma.</a>";
 $l['posted_by'] = "Napsal";
 $l['draft_saved'] = "Nový příspěvek byl úspěšně uložen do konceptů.<br />Nyní budete přesměrováni do seznamu konceptů.";
-$l['image_verification'] = "Obrázková verifikace";
-$l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Toto opatření má zabránit spam botům psát příspěvky.";
-$l['verification_subnote'] = "(necitlivé na velikost)";
-$l['invalid_captcha'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
 $l['error_post_already_submitted'] = "Tento příspěvek jste již do tohoto tématu odeslali. Podívejte se do tématu a uvidíte jej.";
 $l['multiquote_external_one'] = "Byl vybrán jeden příspěvek z jiného tématu.";
 $l['multiquote_external'] = "Bylo vybráno {1} příspěvků z jiných témat.";
@@ -42,14 +38,14 @@ $l['multiquote_external_quote'] = "Citovat i tyto příspěvky";
 
 $l['redirect_newreply'] = "Váš příspěvek byl úspěšně odeslán.";
 $l['redirect_newreply_moderation'] = "Administrátor určil, že všechny nové příspěvky musí být schváleny moderátorem. Nyní budete přesměrováni do seznamu témat.";
-$l['redirect_newreply_post'] = "<br />Nyní budete přesměrováni na Váš příspěvek.";
+$l['redirect_newreply_post'] = "<br />Nyní budete přesměrováni na váš příspěvek.";
 $l['redirect_newreplyerror'] = "Váš příspěvek byl odmítnut, protože má nedostatečný obsah. <br />Nyní budete přesměrováni do tématu.";
 $l['redirect_threadclosed'] = "Do tohoto tématu již nelze přispívat, protože bylo moderátorem uzavřeno.";
 $l['error_post_noperms'] = "Nemáte dostatečná oprávnění k úpravě tohoto konceptu.";
 
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo Vaše IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
-$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů, která je zřejmě nedostupná. Zkuste to později.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, vaše uživatelské jméno nebo vaše IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání vaší zprávy s databází spamerů, která je zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />
 

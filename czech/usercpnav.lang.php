@@ -30,6 +30,6 @@ $l['ucp_nav_drafts'] = "Koncepty";
 $l['ucp_nav_drafts_active'] = "<strong>Uložené koncepty ({1})</strong>";
 $l['ucp_nav_notepad'] = "Osobní poznámky";
 $l['ucp_nav_view_profile'] = "Zobrazit profil";
-$l['ucp_nav_home'] = "Přehled Vašeho účtu";
+$l['ucp_nav_home'] = "Přehled vašeho účtu";
 $l['ucp_nav_usergroups'] = "Členství ve skupinách";
 $l['ucp_nav_attachments'] = "Spravovat přílohy";

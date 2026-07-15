@@ -51,10 +51,10 @@ $l['login'] = "Přihlašovací údaje";
 $l['lost_password'] = "Zapomněl jste heslo?";
 
 $l['error_invalid_admin_session'] = "Neplatné administrátorské sezení.";
-$l['error_admin_session_expired'] = "Vypršela platnost Vašeho administrátorského přihlášení.";
+$l['error_admin_session_expired'] = "Vypršela platnost vašeho administrátorského přihlášení.";
 $l['error_invalid_ip'] = "Vaše IP adresa není platná pro sezení.";
 $l['error_mybb_admin_lockedout'] = "Tento účet byl zablokován!";
-$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli Váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje. <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi, jak odblokovat účet.";
+$l['error_mybb_admin_lockedout_message'] = "Z bezpečnostních důvodu jsme se rozhodli váš účet zablokovat, protože jste zadal {1}x krát po sobě nesprávné přihlašovací údaje. <br /> Na e-mailovou adresu vlastníka účtu byl odeslán e-mail s instrukcemi, jak odblokovat účet.";
 
 $l['error_invalid_username'] = "Uživatelské jméno, které jste zadal, je neplatné.";
 $l['error_invalid_uid'] = "Uživatelské ID, které jste zadal, je neplatné.";
@@ -178,7 +178,7 @@ $l['access_denied'] = "Přístup zamítnut.";
 $l['access_denied_desc'] = "Nemáte přístup do této části administračního rozhraní…";
 
 // Super Administrator required
-$l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžete provést tuto akci, protože nejste super administrátor.<br /><br /> Abyste mohl vykonat tuto akci, tak Vaše user ID musí být na seznamu super administrátorů v inc/config.php.";
+$l['cannot_perform_action_super_admin_general'] = "Bohužel, nemůžete provést tuto akci, protože nejste super administrátor.<br /><br /> Abyste mohl vykonat tuto akci, tak vaše user ID musí být na seznamu super administrátorů v inc/config.php.";
 
 // AJAX
 $l['loading_text'] = "Načítání<br />Prosím, počkejte…";
@@ -337,7 +337,7 @@ $l['board_url'] = "URL adresa fóra";
 
 // Unlock ACP
 $l['lockout_unlock'] = "Odemknout administrační rozhraní fóra";
-$l['enter_username_and_token'] = "Prosím, zadejte Vaši přezdívku a aktivační kód pro pokračování.";
+$l['enter_username_and_token'] = "Prosím, zadejte vaši přezdívku a aktivační kód pro pokračování.";
 $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
@@ -345,10 +345,10 @@ $l['unlock_account'] = "Odemknout účet";
 $l['locked_out_subject'] = "{1}: Administrátorský účet byl zablokován z důvodu mnoha neúspěšných pokusů o přihlášení";
 $l['locked_out_message'] = "Dobrý den, {1},
 
-Váš administrátorský účet na stránce {2} byl po {3} neúspěšných pokusech o přihlášení zablokován.
+váš administrátorský účet na stránce {2} byl po {3} neúspěšných pokusech o přihlášení zablokován.
 
-Je možné, že jste si nevzpomněli na heslo nebo se někdo pokoušel přihlásit na Váš účet.
-Z bezpečnostních důvodu proto došlo k blokaci Vašeho účtu.
+Je možné, že jste si nevzpomněli na heslo nebo se někdo pokoušel přihlásit na váš účet.
+Z bezpečnostních důvodu proto došlo k blokaci vašeho účtu.
 
 Pro odblokování účtu, prosím, klikněte na níže uvedený odkaz:
 
@@ -377,8 +377,8 @@ $l['mybb_engine'] = "MyBB engine";
 
 $l['my2fa'] = "Dvoufázové ověření";
 $l['my2fa_failed'] = "Zadali jste nesprávný kód, a proto jste byli odhlášeni.";
-$l['my2fa_code'] = "Prosím, zadejte Váš autorizační kód.";
+$l['my2fa_code'] = "Prosím, zadejte váš autorizační kód.";
 $l['my2fa_label'] = "Autorizační kód:";
 $l['my2fa_no_codes'] = "Poznámka: Použil jste všechny své kódy pro obnovení. Pro vygenerování nových záchranných kódů, prosím, navštivte <a href=\"index.php?module=home-preferences&amp;action=recovery_codes\">stránku pro záchranné kódy</a>";
-$l['error_mybb_not_admin_account'] = "Nemáte oprávnění k přístupu do ovládacího panelu administrace.";
+$l['error_mybb_not_admin_account'] = "Nemáte oprávnění pro přístup do administračního rozhraní.";
 $l['task_sendmailqueue_ran'] = 'Úloha odesílání e-mailů z fronty odeslala až {1} zpráv.';
