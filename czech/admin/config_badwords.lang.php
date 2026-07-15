@@ -11,7 +11,7 @@ $l['bad_words'] = "Filtr sprostých slov";
 $l['edit_bad_word'] = "Upravit filtr";
 $l['edit_bad_word_desc'] = "Zde můžete upravit filtr a upravit za co dané slovo nahradíte.";
 $l['bad_word_filters'] = "Slovní filtr";
-$l['bad_word_filters_desc'] = "Tato funkce Vám umožní spravovat seznam slov nebo frází, které mají být automaticky nahrazeny v příspěvcích uživatelů. Je to velmi užitečné při nahrazování sprostých slov, aj.";
+$l['bad_word_filters_desc'] = "Tato funkce vám umožní spravovat seznam slov nebo frází, které mají být automaticky nahrazeny v příspěvcích uživatelů. Je to velmi užitečné při nahrazování sprostých slov, aj.";
 
 $l['bad_word'] = "Slovo";
 $l['bad_word_desc'] = "Zadejte slovo, které si přejete, aby bylo filtrováno. Symbol '*' představuje libovolný počet znaků a symbol '+' představuje každý libovolný znak kromě mezery a nového řádku.";

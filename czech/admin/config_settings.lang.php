@@ -9,11 +9,11 @@
 
 $l['board_settings'] = "Nastavení fóra";
 $l['change_settings'] = "Změnit nastavení";
-$l['change_settings_desc'] = "Tato část umožní spravovat všechna různá nastavení týkající se Vašeho fóra. Chcete-li začít, vyberte skupinu níže pro správu nastavení týkajících se této skupiny.";
+$l['change_settings_desc'] = "Tato část umožní spravovat všechna různá nastavení týkající se vašeho fóra. Chcete-li začít, vyberte skupinu níže pro správu nastavení týkajících se této skupiny.";
 $l['add_new_setting'] = "Přidat nové nastavení";
-$l['add_new_setting_desc'] = "V této části můžete přidat nové nastavení pro Vaše fórum.";
+$l['add_new_setting_desc'] = "V této části můžete přidat nové nastavení pro vaše fórum.";
 $l['modify_existing_settings'] = "Upravit nastavení";
-$l['modify_existing_settings_desc'] = "Tato část Vám umožňuje upravovat již existující nastavení Vašeho fóra.";
+$l['modify_existing_settings_desc'] = "Tato část vám umožňuje upravovat již existující nastavení vašeho fóra.";
 $l['add_new_setting_group'] = "Přidat novou skupinu nastavení";
 $l['add_new_setting_group_desc'] = "Tato část umožňuje vytvořit skupinu nastavení pro kategorizaci jednotlivých nastavení.";
 $l['edit_setting_group'] = "Upravit skupinu nastavení";

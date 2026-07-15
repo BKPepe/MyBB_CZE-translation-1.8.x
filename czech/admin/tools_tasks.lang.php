@@ -9,7 +9,7 @@
 
 $l['task_manager'] = "Naplánované úlohy";
 $l['add_new_task'] = "Přidat novou úlohu";
-$l['add_new_task_desc'] = "Zde můžete naplánovat úlohu, která se automaticky spustí ve Vašem fóru.";
+$l['add_new_task_desc'] = "Zde můžete naplánovat úlohu, která se automaticky spustí ve vašem fóru.";
 $l['edit_task'] = "Upravit úlohu";
 $l['edit_task_desc'] = "Níže můžete upravit různé nastavení pro tuto naplánovanou úlohu. ";
 $l['task_logs'] = "Záznamy úloh";

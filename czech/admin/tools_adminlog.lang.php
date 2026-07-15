@@ -72,11 +72,11 @@ $l['admin_log_config_languages_edit_admin'] = "Upravil admin/{2} in language pac
 $l['admin_log_config_languages_quick_phrases'] = "Upravil quick phrases in language pack: {1}";
 
 $l['admin_log_config_mod_tools_delete_post_tool'] = "Smazal příspěvek pomocí nástrojů moderátora #{1} ({2})";
-$l['admin_log_config_mod_tools_delete_thread_tool'] = "Smazal vlákno pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_delete_thread_tool'] = "Smazal téma pomocí nástrojů moderátora #{1} ({2})";
 $l['admin_log_config_mod_tools_edit_post_tool'] = "Upravil příspěvek pomocí nástrojů moderátora #{1} ({2})";
-$l['admin_log_config_mod_tools_edit_thread_tool'] = "Upravil vlákno pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_edit_thread_tool'] = "Upravil téma pomocí nástrojů moderátora #{1} ({2})";
 $l['admin_log_config_mod_tools_add_post_tool'] = "Přidal příspěvek pomocí nástrojů moderátora #{1} ({2})";
-$l['admin_log_config_mod_tools_add_thread_tool'] = "Přidal vlákno pomocí nástrojů moderátora #{1} ({2})";
+$l['admin_log_config_mod_tools_add_thread_tool'] = "Přidal téma pomocí nástrojů moderátora #{1} ({2})";
 
 $l['admin_log_config_mycode_toggle_status_enabled'] = "Povolil custom MyCode #{1} ({2})";
 $l['admin_log_config_mycode_toggle_status_disabled'] = "Zakázal vlastní MyCode #{1} ({2})";
@@ -238,7 +238,6 @@ $l['admin_log_tools_tasks_disable'] = "Zakázal naplánovanou úlohu #{1} ({2})"
 $l['admin_log_tools_tasks_run'] = "Spustil naplánovanou úlohu #{1} ({2})";
 
 $l['admin_log_user_awaiting_activation_activate_activated'] = "Aktivoval uživatele s ID {2} čekajícího na potvrzení";
-$l['admin_log_user_awaiting_activation_activate_Smazal'] = "Smazal {2} uživatele, který čekal na potvrzení";
 
 $l['admin_log_user_admin_permissions_delete_user'] = "Smazal oprávnění administrátora uživateli #{1} ({2})";
 $l['admin_log_user_admin_permissions_delete_group'] = "Smazal skupinová oprávnění pro uživatelskou skupinu #{1} ({2})";

@@ -11,7 +11,7 @@ $l['nav_newthread'] = "Nové téma";
 $l['newthread_in'] = "Nové téma v {1}";
 $l['post_new_thread'] = "Založení nového tématu";
 $l['thread_subject'] = "Název tématu:";
-$l['your_message'] = "Text Vaší zprávy:";
+$l['your_message'] = "Text vaší zprávy:";
 $l['post_options'] = "Možnosti příspěvku:";
 $l['options_sig'] = "<b>Podpis:</b> vložit vlastní podpis (pouze pro registrované uživatele)";
 $l['options_emailnotify'] = "<b>Oznámení e-mailem:</b> dostávat oznámení o nových odpovědích e-mailem (pouze pro registrované uživatele)";
@@ -27,11 +27,7 @@ $l['mod_options'] = "Možnosti moderátora:";
 $l['close_thread'] = "<b>Zavřít téma:</b> znemožňuje publikaci nových příspěvků do tématu.";
 $l['stick_thread'] = "<b>Přilepit téma:</b> toto téma bude přilepeno na samý začátek fóra.";
 $l['draft_saved'] = "Nové téma bylo úspěšně uloženo jako koncept.<br />Nyní budete přesměrováni do seznamu konceptů.";
-$l['image_verification'] = "Obrázková verifikace";
-$l['verification_note'] = "Do textového pole dole zadejte text z obrázku vlevo. Toto opatření má zabránit spam botům psát příspěvky.";
-$l['verification_subnote'] = "(necitlivé na velikost)";
-$l['invalid_captcha'] = "Zadaný verifikační kód neodpovídá předloze. Zadejte kód přesně takový, jaký vidíte na obrázku.";
-$l['error_post_already_submitted'] = "Toto téma jste již do tohoto fóra odeslali. Přejděte do fóra a uvidíte Váš příspěvek.";
+$l['error_post_already_submitted'] = "Toto téma jste již do tohoto fóra odeslali. Přejděte do fóra a uvidíte váš příspěvek.";
 $l['no_prefix'] = "Bez prefixu";
 $l['forum_rules'] = "{1} - Pravidla";
 
@@ -48,8 +44,8 @@ $l['redirect_newthread_moderation'] = "<br />Administrátor určil, že všechna
 $l['redirect_newthread_thread'] = "<br />Nyní budete přesměrováni do nového tématu.";
 $l['invalidthread'] = "Zvolený koncept neexistuje nebo nemáte oprávnění k jeho prohlížení.";
 
-$l['error_stop_forum_spam_spammer'] = 'Litujeme, Vaše uživatelské jméno nebo IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
-$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání Vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
+$l['error_stop_forum_spam_spammer'] = 'Litujeme, vaše uživatelské jméno nebo IP adresa je na seznamu spamerů. Pokud se jedná o omyl, kontaktujte administrátora.';
+$l['error_stop_forum_spam_fetching'] = 'Litujeme, došlo k chybě při porovnávání vaší zprávy s databází spamerů - je nyní zřejmě nedostupná. Zkuste to později.';
 
 $l['error_suspendedposting'] = "Máte dočasně zakázáno publikovat příspěvky {1}.<br /><br />
 

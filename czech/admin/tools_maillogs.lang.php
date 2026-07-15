@@ -8,7 +8,7 @@
  */
 
 $l['user_email_log'] = "Uživatelských e-mailů";
-$l['user_email_log_desc'] = "Všechny e-maily odeslané od jednoho člena druhému, stejně jako e-maily odeslané pomocí funkce 'Odeslat téma příteli', jsou zaznamenávány a zobrazeny níže. Zde můžete identifikovat potenciální zneuživatele této funkce.";
+$l['user_email_log_desc'] = "Všechny e-maily odeslané od jednoho uživatele druhému, stejně jako e-maily odeslané pomocí funkce 'Odeslat téma příteli', jsou zaznamenávány a zobrazeny níže. Zde můžete identifikovat potenciální zneuživatele této funkce.";
 $l['prune_user_email_log'] = "Pročistit záznamy uživatelských e-mailů";
 
 $l['close_window'] = "Zavřít okno";

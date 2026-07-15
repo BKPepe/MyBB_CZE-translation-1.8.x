@@ -68,7 +68,6 @@ $l['updating_options'] = "<a href=\"usercp.php?action=options\">Aktualizuje nast
 $l['editing_signature'] = "<a href=\"usercp.php?action=editsig\">Upravuje podpis</a>";
 $l['changing_avatar'] = "<a href=\"usercp.php?action=avatar\">Mění avatar</a>";
 $l['viewing_subscriptions'] = "Zobrazuje <a href=\"usercp.php?action=subscriptions\">odběry témat</a>";
-$l['viewing_favorites'] = "Zobrazuje <a href=\"usercp.php?action=favorites\">oblíbená témata</a>";
 $l['editing_pad'] = "Upravuje <a href=\"usercp.php?action=notepad\">osobní poznámky</a>";
 $l['editing_password'] = "Upravuje <a href=\"usercp.php?action=password\">heslo</a>";
 $l['user_cp'] = "Zobrazuje <a href=\"usercp.php\">Nastavení uživatele</a>";

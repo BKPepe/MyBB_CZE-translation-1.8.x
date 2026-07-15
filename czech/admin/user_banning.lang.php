@@ -31,7 +31,7 @@ $l['error_no_reason'] = "Zapomněl jste zadat důvod zabanování.";
 $l['success_ban_lifted'] = "Vybraný ban byl úspěšně odebrán.";
 $l['success_banned'] = "Vybraný uživatel byl úspěšně zabanovaný.";
 $l['success_ban_updated'] = "Vybraný ban byl úspěšně upravený.";
-$l['success_pruned'] = "Všechny příspěvky a vlákna vytvořená tímto uživatelem byla úspěšně smazána.";
+$l['success_pruned'] = "Všechny příspěvky a témata vytvořená tímto uživatelem byla úspěšně smazána.";
 
 // Confirm
 $l['confirm_lift_ban'] = "Opravdu chcete tento ban zrušit?";

@@ -11,10 +11,10 @@ $l['nav_memberlist'] = "Seznam uživatelů";
 
 $l['memberlist_disabled'] = "Seznamu uživatelů je zakázán administrátorem.";
 
-$l['member_list'] = "Seznam členů";
+$l['member_list'] = "Seznam uživatelů";
 $l['avatar'] = "Avatar";
 $l['username'] = "Uživatelské jméno";
-$l['joined'] = "Členství od";
+$l['joined'] = "Registrován";
 $l['lastvisit'] = "Poslední návštěva";
 $l['posts'] = "Příspěvků";
 $l['threads'] = "Témat";
@@ -43,13 +43,9 @@ $l['begins_with'] = "začíná na";
 $l['username_contains'] = "obsahuje";
 $l['username_exact'] = "přesně";
 $l['search_website'] = "URL webu";
-$l['search_skype'] = "Skype kontakt";
-$l['search_google'] = "Google Hangouts kontakt";
-$l['search_icq'] = "ICQ číslo";
 $l['search_options'] = "Možnosti vyhledávání";
 $l['per_page'] = "Výsledků na stránku";
 $l['search'] = "Hledat";
-$l['search_user'] = "Hledat uživatele";
 
 $l['error_no_members'] = "<p>Nebyli nalezeni žádní uživatelé, odpovídající zadaným kritériím.</p><p>Zkuste to znovu s novými parametry.</p>";
 

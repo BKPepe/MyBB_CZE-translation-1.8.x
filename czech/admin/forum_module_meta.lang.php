@@ -16,6 +16,6 @@ $l['attachments'] = "Přílohy";
 
 $l['can_manage_forums'] = "Může spravovat fóra?";
 $l['can_manage_forum_announcements'] = "Může spravovat oznámení fóra?";
-$l['can_moderate'] = "Může moderovat příspěvky, vlákna a přílohy?";
+$l['can_moderate'] = "Může moderovat příspěvky, témata a přílohy?";
 $l['can_manage_attachments'] = "Může spravovat přílohy?";
 

@@ -8,7 +8,7 @@
  */
 
 $l['security_questions'] = "Registrační otázky";
-$l['security_questions_desc'] = "Zde můžete vytvářet a upravovat otázky, které se ukáží během registrace a ochrání Vaše fórum proti spamu.";
+$l['security_questions_desc'] = "Zde můžete vytvářet a upravovat otázky, které se ukáží během registrace a ochrání vaše fórum proti spamu.";
 $l['add_new_question'] = "Přidat novou otázku";
 $l['add_new_question_desc'] = "Zde můžete přidat otázky, které se zobrazí při registraci a musíte k ní přidat odpovědi, které vyžadujete pro správné vyplnění otázky.";
 $l['edit_question'] = "Upravit otázku";

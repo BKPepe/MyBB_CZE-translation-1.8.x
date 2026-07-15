@@ -11,7 +11,7 @@ $l['redirect_threadrated'] = "Děkujeme za ohodnocení tématu. Nyní budete př
 $l['error_invalidrating'] = "Pro toto téma jste zvolili nevhodné hodnocení. Vraťte se zpět a zkuste to znovu.";
 $l['error_alreadyratedthread'] = "Toto téma jste již ohodnotili.";
 $l['error_cannotrateownthread'] = "Nemůžete hodnotit svoje vlastní téma.";
-$l['thread_doesnt_exist'] = "Nemůžete hodnotit vlákno, které neexistuje.";
+$l['thread_doesnt_exist'] = "Nemůžete hodnotit téma, které neexistuje.";
 
 $l['rating_votes_average'] = "{1} hlas(ů) - {2} z 5 možných";
 $l['one_star'] = "1 bod z možných 5";

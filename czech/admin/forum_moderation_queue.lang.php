@@ -9,7 +9,7 @@
 
 // Tabs
 $l['moderation_queue'] = "Moderátorská kvóta";
-$l['threads'] = "Vlákno";
+$l['threads'] = "Téma";
 $l['threads_desc'] = "Zde můžete zobrazit a schválit témata čekající na schválení.";
 $l['posts'] = "Příspěvky";
 $l['posts_desc'] = "Zde můžete zobrazit a schválit příspěvky čekající na schválení.";
@@ -22,7 +22,7 @@ $l['attachments_awaiting_moderation'] = "Přílohy čekající na schválení";
 // Errors
 $l['error_no_posts'] = "Žádné příspěvky čekající na schválení.";
 $l['error_no_attachments'] = "Žádné přílohy čekající na schválení.";
-$l['error_no_threads'] = "Právě teď tu není žádné vlákno, příspěvek ani příloha, které čekají na schválení moderátorem.";
+$l['error_no_threads'] = "Právě teď tu není žádné téma, příspěvek ani příloha, které čekají na schválení moderátorem.";
 
 // Success
 $l['success_threads'] = "Zvolená témata byla úspěšně schválena.";
@@ -36,7 +36,7 @@ $l['posted'] = "Vloženo";
 $l['ignore'] = "Ignorovat";
 $l['approve'] = "Schválit";
 $l['forum'] = "Fórum:";
-$l['thread'] = "Vlákno:";
+$l['thread'] = "Téma:";
 $l['post'] = "Příspěvek:";
 $l['re'] = "RE:";
 $l['filename'] = "Název souboru";

@@ -9,7 +9,7 @@
 
 $l['banning'] = "Banování";
 $l['banned_ips'] = "Zabanové IP adresy";
-$l['banned_ips_desc'] = "Zde můžete upravovat IP adresy, kterým jste zakázal přístup na Vaše fórum.";
+$l['banned_ips_desc'] = "Zde můžete upravovat IP adresy, kterým jste zakázal přístup na vaše fórum.";
 $l['banned_accounts'] = "Zabanované účty";
 $l['disallowed_usernames'] = "Zakázané uživatelské přezdívky";
 $l['disallowed_usernames_desc'] = "Zde můžete spravovat seznam uživatelských přezdívek, které nemohou být zaregistrovány nebo nemohou být použity již zaregistrovanými uživateli. Tato funkce může být vhodná např. pro rezervaci uživatelské přezdívky.";

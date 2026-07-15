@@ -13,7 +13,7 @@ $l['file_verification_message'] = "Tento proces ověří a zkontroluje všechny 
 
 $l['error_communication'] = "Vyskytl se problém při komunikaci se serverem MyBB. Prosím, zkuste to znovu za pár minut.";
 $l['file'] = "Soubor";
-$l['no_corrupt_files_found'] = "Gratuluji! Žádné poškozené soubory nebyly nalezeny ve Vaší instalaci MyBB.";
+$l['no_corrupt_files_found'] = "Gratuluji! Žádné poškozené soubory nebyly nalezeny ve vaší instalaci MyBB.";
 $l['found_problems'] = "Nalezeny následující problémy.";
 $l['no_problems_found'] = "Nebyl nalezen žádný problém.";
 $l['changed'] = "Změněn";
