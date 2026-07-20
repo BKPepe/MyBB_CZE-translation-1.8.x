@@ -34,7 +34,7 @@ $l['diff_report'] = "Rozdíly";
 $l['diff_report_desc'] = "Provede analýzu rozdílů mezi šablonami a ukáže vám přesně, jaké změny byly provedeny mezi vlastní kopií a nejnovější hlavní kopií.";
 
 $l['title'] = "Název";
-$l['save'] = "uložit";
+$l['save'] = "Uložit";
 $l['search_for'] = "Hledat";
 $l['replace_with'] = "Nahradit (volitelné)";
 $l['reset'] = "Reset";

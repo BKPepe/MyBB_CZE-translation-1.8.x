@@ -312,7 +312,7 @@ $l['forumjump_search'] = "Hledat";
 $l['forumjump_home'] = "Domů";
 
 $l['confirm_title'] = "Prosím potvrďte";
-$l['redirect'] = "budete přesměrováni";
+$l['redirect'] = "Nyní budete přesměrováni.";
 $l['unknown_error'] = "Nastala neznámá chyba.";
 $l['post_fetch_error'] = 'Chyba při načítání příspěvků.';
 $l['ratings_update_error'] = 'Nastala chyba při aktualizaci hodnocení.';
