@@ -264,8 +264,8 @@ $l['postbit_email'] = "Poslat tomuto uživateli e-mail";
 $l['postbit_find'] = "Vyhledat všechny příspěvky tohoto uživatele";
 $l['postbit_report'] = "Ohlásit tento příspěvek moderátorovi";
 $l['postbit_quote'] = "Citovat tento příspěvek v odpovědi";
-$l['postbit_qdelete_post'] = "Odstranit tento příspěvek";
-$l['postbit_qdelete_thread'] = "Odstranit toto téma";
+$l['postbit_qdelete_post'] = "Smazat tento příspěvek";
+$l['postbit_qdelete_thread'] = "Smazat toto téma";
 $l['postbit_qrestore_post'] = "Obnovit tento příspěvek";
 $l['postbit_qrestore_thread'] = "Obnovit toto téma";
 $l['postbit_profile'] = "Zobrazit profil uživatele";
@@ -410,11 +410,11 @@ $l['slaps'] = "pokárání";
 $l['with_trout'] = "around a bit with a large trout (slovní hříčka).";
 
 $l['mybb_engine'] = "MyBB Engine";
-$l['quickdelete_confirm'] = "Opravdu chcete odstranit tento příspěvek?";
+$l['quickdelete_confirm'] = "Opravdu chcete smazat tento příspěvek?";
 $l['quickrestore_confirm'] = "Opravdu chcete obnovit tento příspěvek?";
 $l['newpm_notice_one'] = "<strong>Máte 1 nepřečtenou soukromou zprávu</strong> od {1} s předmětem zprávy <a href=\"{2}/private.php?action=read&amp;pmid={3}\" style=\"font-weight: bold;\">{4}</a>";
 $l['newpm_notice_multiple'] = "<strong>Máte {1} nepřečtených soukromých zpráv.</strong> Nejnovější je od {2} s předmětem zprávy <a href=\"{3}/private.php?action=read&amp;pmid={4}\" style=\"font-weight: bold;\">{5}</a>";
-$l['deleteevent_confirm'] = "Opravdu chcete odstranit tuto událost?";
+$l['deleteevent_confirm'] = "Opravdu chcete smazat tuto událost?";
 $l['removeattach_confirm'] = "Opravdu chcete odstranit z příspěvku zvolenou přílohu?";
 
 $l['latest_threads'] = "Nejnovější témata";

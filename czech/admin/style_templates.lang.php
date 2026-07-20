@@ -151,7 +151,7 @@ $l['updated_template_welcome3'] = "Rozdíly-provede analýzu rozdílů mezi šab
 $l['no_global_templates'] = "Není zde žádné hlavní téma.";
 $l['no_updated_templates'] = "Momentálně nejsou k dispozici žádné šablony, které byly aktualizovány od posledního upgradu.";
 
-$l['confirm_template_set_deletion'] = "Opravdu chcete odstranit tuto sadu šablon?";
+$l['confirm_template_set_deletion'] = "Opravdu chcete smazat tuto sadu šablon?";
 $l['confirm_template_group_delete'] = "Opravdu chcete odstranit tuto skupinu šablon? Tato akce neodebere šablony ve skupině.";
 $l['confirm_template_deletion'] = "Opravdu chcete smazat tuto šablonu?";
 $l['confirm_template_revertion'] = "Opravdu chcete vrátit tuto šablonu?";
@@ -164,7 +164,7 @@ $l['error_missing_set_title'] = "Vyberte, prosím, název setu šablon.";
 $l['error_invalid_input'] = "Zkontrolujte, zda máte správné ID sady šablon.";
 $l['error_invalid_set'] = "Prosím, vyberte správný set šablon.";
 $l['error_invalid_template_set'] = "Vybrali jste nesprávný set šablon.";
-$l['error_themes_attached_template_set'] = "Tuto sadu šablon nelze odstranit, protože existují motivy připojené k této sadě šablon.";
+$l['error_themes_attached_template_set'] = "Tuto sadu šablon nelze smazat, protože existují motivy připojené k této sadě šablon.";
 $l['error_missing_group_prefix'] = "Prosím zadejte předponu pro tuto sadu šablon.";
 $l['error_invalid_group_title'] = "Podtržítka (_) jsou používány jako oddělovače, které jsou zakázány v předponách skupiny šablony. Vyberte jinou předponu.";
 $l['error_missing_group_title'] = "Prosím, vyberte název nové sady šablon.";

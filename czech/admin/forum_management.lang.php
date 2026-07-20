@@ -70,11 +70,11 @@ $l['moderator_permissions'] = "Oprávnění moderátorů";
 $l['forum_desc'] = "Moderátor spravuje fórum.";
 $l['edit_mod_for'] = "Změnit moderátorské možnosti pro \"{1}\"";
 $l['can_edit_posts'] = "Může editovat příspěvky?";
-$l['can_soft_delete_posts'] = "Může odstranit příspěvky?";
-$l['can_restore_posts'] = "Může vrátit odstraněné příspěvky?";
+$l['can_soft_delete_posts'] = "Může smazat příspěvky?";
+$l['can_restore_posts'] = "Může vrátit smazané příspěvky?";
 $l['can_delete_posts'] = "Může smazat příspěvky trvale?";
 $l['can_soft_delete_threads'] = "Může smazat témata?";
-$l['can_restore_threads'] = "Může vrátit odstraněná témata?";
+$l['can_restore_threads'] = "Může vrátit smazaná témata?";
 $l['can_delete_threads'] = "Může smazat témata trvale?";
 $l['can_view_ips'] = "Může vidět IP adresy?";
 $l['can_view_unapprove'] = "Můžete zobrazit neschválená témata a příspěvky?";
@@ -262,8 +262,8 @@ $l['posting_rating_field_canpostattachments'] = "Může zaslat přílohu?";
 $l['posting_rating_field_canratethreads'] = "Může hodnotit téma?";
 
 $l['editing_field_caneditposts'] = "Může upravit vlastní příspěvek?";
-$l['editing_field_candeleteposts'] = "Může odstranit vlastní příspěvek?";
-$l['editing_field_candeletethreads'] = "Může odstranit vlastní téma?";
+$l['editing_field_candeleteposts'] = "Může smazat vlastní příspěvek?";
+$l['editing_field_candeletethreads'] = "Může smazat vlastní téma?";
 $l['editing_field_caneditattachments'] = "Může upravit vlastní přílohy?";
 $l['editing_field_canviewdeletionnotice'] = "Může vidět smazané poznámky?";
 

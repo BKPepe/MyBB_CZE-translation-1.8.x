@@ -120,9 +120,9 @@ $l['success_merged'] = "byl úspěšně sloučen do";
 $l['succuss_view_set_as_default'] = "Vybrané zobrazení správy bylo úspěšně nastaveno jako výchozí.";
 $l['success_view_created'] = "Zobrazení správy bylo úspěšně vytvořeno.";
 $l['success_view_updated'] = "Vybrané zobrazení správy bylo úspěšně aktualizováno.";
-$l['success_view_deleted'] = "Vybrané zobrazení správy bylo úspěšně odstraněno.";
+$l['success_view_deleted'] = "Vybrané zobrazení správy bylo úspěšně smazáno.";
 
-$l['confirm_view_deletion'] = "Opravdu chcete odstranit vybrané zobrazení?";
+$l['confirm_view_deletion'] = "Opravdu chcete smazat vybrané zobrazení?";
 $l['warning_coppa_user'] = "<p class=\"alert\"><strong>Upozornění: </strong> Tento uživatel čeká na ověření COPPA. <a href=\"index.php?module=user-users&amp;action=activate_user&amp;uid={1}&amp;my_post_key={2}\">Aktivovat účet</a></p>";
 
 $l['required_profile_info'] = "Požadované informace";

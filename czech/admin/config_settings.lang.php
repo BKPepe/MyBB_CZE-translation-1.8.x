@@ -103,8 +103,8 @@ $l['success_settings_updated_captchaimage'] = '<div class="smalltext" style="fon
 $l['success_display_orders_updated'] = "Pořadí zobrazení nastavení bylo úspěšně aktualizováno.";
 $l['success_setting_group_added'] = "Skupina nastavení byla úspěšně vytvořena.";
 $l['success_setting_group_updated'] = "Skupina nastavení byla úspěšně aktualizována.";
-$l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěšně odstraněna.";
-$l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně odstraněny.";
+$l['success_setting_group_deleted'] = "Vybraná skupina nastavení byla úspěšně smazána.";
+$l['success_duplicate_settings_deleted'] = "Všechny skupiny nastavení duplicit byly úspěšně smazány.";
 
 $l['searching'] = 'Hledám…';
 $l['search_error'] = 'Nastala chyba při načítání výsledků vyhledávání:';
