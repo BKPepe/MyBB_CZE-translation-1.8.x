@@ -185,7 +185,7 @@ $l['error_invalidsearch'] = "Vyhledávání bylo zadáno chybně. Vraťte se, pr
 
 $l['redirect_pmsaved'] = "Tato soukromá zpráva byla uložena do složky Koncepty.";
 $l['redirect_pmstrackingstopped'] = "Sledování vybraných soukromých zpráv bylo zastaveno.";
-$l['redirect_pmstrackingcanceled'] = "Ze schránky příjemce byly odstraněny vybrané nepřečtené soukromé zprávy.";
+$l['redirect_pmstrackingcanceled'] = "Ze schránky příjemce byly smazány vybrané nepřečtené soukromé zprávy.";
 $l['redirect_allpmstrackingstopped'] = "Sledování všech přečtených soukromých zpráv bylo zastaveno.";
 $l['redirect_pmsmoved'] = "Vybraná soukromá zpráva byla přemístěna.";
 $l['redirect_pmsdeleted'] = "Vybraná soukromá zpráva byla odstraněna.";

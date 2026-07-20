@@ -134,12 +134,12 @@ $l['post_preview'] = "Náhled";
 $l['change_user'] = "změnit uživatele";
 $l['post_icon'] = "Ikona příspěvku:";
 $l['no_post_icon'] = "bez ikony";
-$l['thread_subscription_method'] = "Přihlásit k odběru témat:";
-$l['thread_subscription_method_desc'] = "Zvolte druh ohlašování a odběru novinek pro toto téma (pouze pro registrované uživatele)";
-$l['no_subscribe'] = "Nepřihlašovat k odběru novinek tohoto tématu";
-$l['no_subscribe_notification'] = "Přihlásit k odběru bez ohlašováním odpovědí e-mailem";
-$l['instant_email_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi e-mailem";
-$l['instant_pm_subscribe'] = "Přihlásit k odběru a ohlašovat odpovědi přes SZ";
+$l['thread_subscription_method'] = "Odběr tématu:";
+$l['thread_subscription_method_desc'] = "Zvolte způsob odběru a upozornění pro toto téma (pouze pro registrované uživatele).";
+$l['no_subscribe'] = "Neodebírat toto téma";
+$l['no_subscribe_notification'] = "Odebírat bez upozornění na nové odpovědi";
+$l['instant_email_subscribe'] = "Odebírat a upozorňovat na nové odpovědi e-mailem";
+$l['instant_pm_subscribe'] = "Odebírat a upozorňovat na nové odpovědi soukromou zprávou";
 
 $l['today_rel'] = "<span title=\"{1}\">dnes</span>";
 $l['yesterday_rel'] = "<span title=\"{1}\">včera</span>";

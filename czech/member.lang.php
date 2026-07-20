@@ -104,7 +104,7 @@ $l['account_prefs'] = "Nastavení účtu:";
 $l['invisible_mode'] = "Nechci být zobrazen na seznamu právě přihlášených uživatelů.";
 $l['allow_notices'] = "Dostávat e-maily od administrátora.";
 $l['hide_email'] = "Nezobrazovat moji e-mailovou adresu ostatním uživatelům.";
-$l['email_notify'] = "Automaticky odebírat příspěvky témat, ve kterých mám příspěvek.";
+$l['email_notify'] = "Automaticky odebírat témata, ve kterých máte příspěvek.";
 $l['receive_pms'] = "Dostávat soukromé zprávy od ostatních uživatelů.";
 $l['pm_notice'] = "Upozornit na nové soukromé zprávy oznámením.";
 $l['email_notify_newpm'] = "Upozornit na nové soukromé zprávy e-mailem.";
@@ -238,11 +238,11 @@ $l['security_question'] = "Bezpečnostní otázka";
 $l['question_note'] = "Prosím, odpovězte na níže uvedenou otázku. Tento proces by měl zabránit registraci spam botům.";
 $l['error_question_wrong'] = "Vaše odpověď na bezpečnostní otázku není správná. Prosím, zkuste to znovu.";
 
-$l['subscription_method'] = "Předvolený způsob odběru témat:";
+$l['subscription_method'] = "Výchozí způsob odběru témat:";
 $l['no_auto_subscribe'] = "Neodebírat";
 $l['no_subscribe'] = "Neupozorňovat";
 $l['instant_email_subscribe'] = "Upozorňovat e-mailem";
-$l['instant_pm_subscribe'] = "Upozorňovat SZ";
+$l['instant_pm_subscribe'] = "Upozorňovat soukromou zprávou";
 
 $l['remove_from_buddy_list'] = "Odstranit ze seznamu přátel";
 $l['add_to_buddy_list'] = "Přidat na seznam přátel";
