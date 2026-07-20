@@ -350,7 +350,7 @@ Toto je automatický e-mail z {2}, kterým vás informujeme, že kapacita vaší
 
 Nejméně jeden uživatel se vám pokoušel zaslat soukromou zprávu, ale z výše uvedeného důvodu neuspěl.
 
-Náprava je snadná odstraňte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
+Náprava je snadná – smažte ze své složky soukromých zpráv některé zprávy, přičemž také nezapomeňte vyčistit 'Odpadkový koš'.
 
 Děkujeme
 Vedení fóra {2}

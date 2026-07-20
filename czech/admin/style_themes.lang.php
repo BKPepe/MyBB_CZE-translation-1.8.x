@@ -11,7 +11,7 @@ $l['themes'] = "Vzhledy";
 $l['themes_desc'] = "V této části můžete spravovat vzhledy, které můžete vytvořit, případně naimportovat. Také si můžete přizpůsobit vzhledy pro vaše fórum. Seznam vzhledů, které máte nainstalované najdete níže.";
 
 $l['create_new_theme'] = "Vytvořit nový vzhled";
-$l['create_new_theme_desc'] = "Zde můžete vytvořit skin, který bude založen na výchozím vzhledu MyBB.<strong>Template sets, stylesheets, and other settings are inherited from the parent theme.</strong>";
+$l['create_new_theme_desc'] = "Zde můžete vytvořit nový motiv založený na výchozím vzhledu MyBB. <strong>Sady šablon, styly a další nastavení se dědí z nadřazeného motivu.</strong>";
 
 $l['import_a_theme'] = "Import nového vzhledu";
 $l['import_a_theme_desc'] = "Zde můžete naimportovat nový vzhled. Vzhled můžete naimportovat ze svého počítače případně přes vzdálenou adresu URL.";

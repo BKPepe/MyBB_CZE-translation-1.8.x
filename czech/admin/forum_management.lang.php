@@ -217,7 +217,7 @@ $l['use_threadcounts'] = "Ano, fórum může počítat témata jednotlivých už
 $l['require_thread_prefix'] = "Ano, požaduji předponu všech témat";
 
 $l['use_permissions'] = "Použít oprávnění";
-$l['use_permissions_desc'] = "Vyberte oprávnění, která chcete použít pro tuto skupinu uživatelů- zkopírovaná oprávnění (odstraní vlastní oprávnění) nebo vlastní oprávnění.";
+$l['use_permissions_desc'] = "Vyberte oprávnění, která chcete použít pro tuto skupinu uživatelů – zkopírovaná oprávnění (smaže vlastní oprávnění), nebo vlastní oprávnění.";
 $l['inherit_permissions'] = "Použít oprávnění skupiny uživatelů nebo kopírovat oprávnění z nadřazených fór";
 $l['custom_permissions'] = "Použít vlastní oprávnění";
 $l['custom_permissions_for'] = "Vlastní oprávnění pro";
