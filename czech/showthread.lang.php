@@ -9,7 +9,7 @@
 
 $l['delete_poll'] = "Smazat anketu";
 $l['close_thread'] = "Uzavřít téma";
-$l['stick_thread'] = "Přilepit téma";
+$l['stick_thread'] = "Připnout téma";
 
 $l['author'] = "Autor";
 $l['message'] = "Zpráva";
