@@ -180,7 +180,7 @@ $l['error_delayedmoderation_invalid_date_day'] = "Lituji, ale Nezvolili jste pla
 $l['error_delayedmoderation_invalid_date_month'] = "Lituji, ale Nezvolili jste platné datum měsíce pro zpožděné moderování.";
 $l['error_delayedmoderation_invalid_date_year'] = "Lituji, ale Nezvolili jste platné datum roku pro zpožděné moderování.";
 
-$l['redirect_pollnotdeleted'] = "Anketa nebyla odstraněna, protože jste nezaškrtli checkbox \"Odstranit\".";
+$l['redirect_pollnotdeleted'] = "Anketa nebyla smazána, protože jste nezaškrtli políčko \"Smazat\".";
 $l['redirect_polldeleted'] = "Anketa byla úspěšně odstraněna z tématu.<br />Nyní budete přesměrováni zpět do tématu.";
 $l['redirect_mergeposts'] = "Vybrané příspěvky budou spojeny dohromady. Nyní budete přesměrováni zpět do tématu.";
 $l['redirect_openthread'] = "Téma bylo úspěšně otevřeno.<br />Nyní budete přesměrováni zpět do tématu.";

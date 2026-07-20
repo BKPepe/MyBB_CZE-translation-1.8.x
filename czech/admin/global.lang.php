@@ -337,7 +337,7 @@ $l['board_url'] = "URL adresa fóra";
 
 // Unlock ACP
 $l['lockout_unlock'] = "Odemknout administrační rozhraní fóra";
-$l['enter_username_and_token'] = "Prosím, zadejte vaši přezdívku a aktivační kód pro pokračování.";
+$l['enter_username_and_token'] = "Prosím, zadejte své uživatelské jméno a aktivační kód pro pokračování.";
 $l['unlock_token'] = "Aktivační kód:";
 $l['unlock_account'] = "Odemknout účet";
 
@@ -359,7 +359,7 @@ Pokud výše uvedený odkaz nefunguje, prosím, přejděte sem:
 {4}/{5}/index.php?action=unlock
 
 Kde budete muset zadat:
-Přezdívku: {1}
+Uživatelské jméno: {1}
 Aktivační kód: {6}
 
 Omlouváme se za způsobené komplikace.

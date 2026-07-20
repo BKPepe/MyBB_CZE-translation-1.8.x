@@ -10,7 +10,7 @@
 $l['forum_management'] = "Správa fóra";
 $l['forum_management_desc'] = "Tato sekce umožňuje spravovat kategorie a fóra na hlavní straně. Můžete také spravovat oprávnění fóra a moderátory pro konkrétní fórum. Pokud změníte pořadí zobrazení pro jedno nebo více fór nebo kategorií, ujistěte se, že jste odeslali formulář v dolní části stránky.";
 $l['add_forum'] = "Přidat nové fórum";
-$l['add_forum_desc'] = "Zde můžete na nástěnku přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
+$l['add_forum_desc'] = "Zde můžete do fóra přidat nové fórum nebo kategorii. Můžete také nastavit počáteční oprávnění pro toto fórum.";
 $l['copy_forum'] = "Kopírovat fórum";
 $l['copy_forum_desc'] = "Zde můžete zkopírovat nastavení fóra nebo oprávnění z existujícího fóra do jiného nebo do nového fóra.";
 $l['forum_permissions'] = "Oprávnění";
@@ -180,7 +180,7 @@ $l['default_date_cut'] = "Výchozí řazení data:";
 $l['default_sort_by'] = "Výchozí řazení:";
 $l['default_sort_order'] = "Výchozí seřazení:";
 
-$l['board_default'] = "Výchozí nástěnka";
+$l['board_default'] = "Výchozí nastavení fóra";
 
 $l['datelimit_1day'] = "Poslední den";
 $l['datelimit_5days'] = "Posledních 5 dní";

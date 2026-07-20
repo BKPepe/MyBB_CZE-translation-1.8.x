@@ -12,7 +12,7 @@ $l['template_set'] = "Set šablon";
 $l['templates'] = "{1} šablon";
 
 $l['manage_template_sets'] = "Spravovat sety šablon";
-$l['manage_template_sets_desc'] = "Zde můžete spravovat sady šablon, zobrazit šablony pomocí těchto sad a začít přizpůsobovat rozvržení nástěnky.";
+$l['manage_template_sets_desc'] = "Zde můžete spravovat sady šablon, zobrazit šablony pomocí těchto sad a začít přizpůsobovat rozvržení fóra.";
 $l['add_set'] = "Přidat set";
 $l['add_set_desc'] = "Zde můžete vytvořit novou sadu šablon. Nová sada šablon vytvoří kopii předlohy MyBB šablon a umožní vám je upravovat, aniž by zasahoval do změn v jiných sadách šablon, které již pravděpodobně máte";
 $l['add_template'] = "Přidat šablonu";

@@ -553,7 +553,7 @@ $l['error_noname'] = "Nezadali jste platné uživatelské jméno.";
 $l['your_email'] = "Váš e-mail:";
 $l['email_note'] = "Zadejte váš e-mail.";
 $l['your_name'] = "Vaše jméno:";
-$l['name_note'] = "Zadejte svoji přezdívku.";
+$l['name_note'] = "Zadejte své uživatelské jméno.";
 
 $l['january'] = "Leden";
 $l['february'] = "Únor";
